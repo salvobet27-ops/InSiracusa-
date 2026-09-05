@@ -1,0 +1,1 @@
+function e(e,t){typeof window>`u`||fetch(`/InSiracusa/data/${t}`,{cache:`no-store`}).then(e=>{if(!e.ok)throw Error(`Errore caricamento ${t}`);return e.json()}).then(t=>{e.splice(0,e.length,...t)}).catch(e=>{console.warn(`Impossibile aggiornare ${t}. Uso i dati inclusi nella build.`,e)})}export{e as t};
