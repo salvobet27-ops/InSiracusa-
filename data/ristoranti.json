@@ -1,0 +1,1773 @@
+[
+  {
+    "posizione": 1,
+    "vetrina": 0,
+    "slug": "casa-trimarchi",
+    "nome": "CASA TRIMARCHI",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b27bf6ff-675c-4dfc-b845-bbb936d6d41f/a92a40f1-bd1a-4c0b-bacb-007191b4f2fd.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b27bf6ff-675c-4dfc-b845-bbb936d6d41f/a92a40f1-bd1a-4c0b-bacb-007191b4f2fd.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b27bf6ff-675c-4dfc-b845-bbb936d6d41f/41323ea6-fd42-4dea-b4ef-aae214dd35b9.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b27bf6ff-675c-4dfc-b845-bbb936d6d41f/2cec637a-3b76-4ff1-b9f1-f36e633ff10e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b27bf6ff-675c-4dfc-b845-bbb936d6d41f/4c7a27b6-c560-4ca3-998b-75458b19c091.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b27bf6ff-675c-4dfc-b845-bbb936d6d41f/e4ae900d-76dd-4e03-b71b-f2cfe6492fcc.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b27bf6ff-675c-4dfc-b845-bbb936d6d41f/094cef3e-b4ed-4a42-8c54-bb44d4112fcf.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b27bf6ff-675c-4dfc-b845-bbb936d6d41f/e0187fd0-15e0-4d1b-9452-bc05ea0cc2fd.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b27bf6ff-675c-4dfc-b845-bbb936d6d41f/2d99d9d0-1e59-40ea-999b-c65cc5abbabe.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b27bf6ff-675c-4dfc-b845-bbb936d6d41f/0b41c31a-2401-471b-91ff-d5f8ceccc3b2.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 156 7471",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CASA+TRIMARCHI+Via+Laberinto+1-3-5+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/casa-trimarchi-r549115",
+    "descrizione": "Cucina siciliana a filiera corta, pasta fresca e ricette di famiglia nel cuore di Ortigia."
+  },
+  {
+    "posizione": 2,
+    "vetrina": 0,
+    "slug": "il-cortile-di-archimede",
+    "nome": "IL CORTILE DI ARCHIMEDE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/2b75721b-44dd-4cf7-b794-ca6ba048c021/446eb3ba-8daa-43a6-830e-c3a9f9b94f21.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/2b75721b-44dd-4cf7-b794-ca6ba048c021/446eb3ba-8daa-43a6-830e-c3a9f9b94f21.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/2b75721b-44dd-4cf7-b794-ca6ba048c021/3306fe71-973b-45ef-9ae9-f08682802dc5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/2b75721b-44dd-4cf7-b794-ca6ba048c021/295a1af7-91e6-47df-9270-b235adc00b32.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/2b75721b-44dd-4cf7-b794-ca6ba048c021/a5e6a391-de20-40a4-a93b-3acde2dd62d4.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/2b75721b-44dd-4cf7-b794-ca6ba048c021/f37ec9db-a4d9-494c-bf3f-1c6cb7d9d6dc.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/2b75721b-44dd-4cf7-b794-ca6ba048c021/530d1eb6-912c-4aae-bb00-3ec0d37b7261.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/2b75721b-44dd-4cf7-b794-ca6ba048c021/44f24dc7-b0aa-4214-bac4-e3c53ec76924.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/2b75721b-44dd-4cf7-b794-ca6ba048c021/76aca4ef-ce0b-4904-9e03-d0f369308140.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/2b75721b-44dd-4cf7-b794-ca6ba048c021/817c3440-0ded-46ef-ae3d-a1bc04674c94.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 393 087 2585",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=IL+CORTILE+DI+ARCHIMEDE+Via+della+Maestranza+17+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/il-cortile-di-archimede-r504027",
+    "descrizione": "Cucina siciliana di mare e di terra servita in un caratteristico cortile nel centro storico."
+  },
+  {
+    "posizione": 3,
+    "vetrina": 0,
+    "slug": "jobi",
+    "nome": "JOBI",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5fecf939-c822-4d18-bb7c-bcc83f81a35a/e7c689df-0b0e-4821-8ed9-9e2cd1fa0a58.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5fecf939-c822-4d18-bb7c-bcc83f81a35a/e7c689df-0b0e-4821-8ed9-9e2cd1fa0a58.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5fecf939-c822-4d18-bb7c-bcc83f81a35a/eeca81a0-50ea-4ab1-9c53-36048af9a711.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5fecf939-c822-4d18-bb7c-bcc83f81a35a/704a6ad8-3b97-4b39-83f6-60496b0e2646.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5fecf939-c822-4d18-bb7c-bcc83f81a35a/ef7b44b9-ca0b-4008-b7e0-c3983701d06c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5fecf939-c822-4d18-bb7c-bcc83f81a35a/950155ef-1e21-4fef-bd61-a43d5b0881c1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5fecf939-c822-4d18-bb7c-bcc83f81a35a/0a0dd6a6-badb-4b28-bbd1-81197a9f53fd.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5fecf939-c822-4d18-bb7c-bcc83f81a35a/dc092370-867a-452b-9ff0-35bfc9610de5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5fecf939-c822-4d18-bb7c-bcc83f81a35a/aaca548b-c149-4fb9-8c45-23ba39a7a42c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5fecf939-c822-4d18-bb7c-bcc83f81a35a/7be655dc-dd91-4086-9d8c-c4ad166e08cc.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 328 085 1085",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=JOBI+Via+della+Maestranza+58-64+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/jobi-r442607",
+    "descrizione": "Cucina siciliana con pesce, pasta e ingredienti mediterranei lungo Via della Maestranza."
+  },
+  {
+    "posizione": 4,
+    "vetrina": 0,
+    "slug": "don-camillo",
+    "nome": "DON CAMILLO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c591ff60-0636-4ded-aca6-71a3e45e8a62/d50db7ce-e97c-4900-90c9-b014928ab0ee.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c591ff60-0636-4ded-aca6-71a3e45e8a62/d50db7ce-e97c-4900-90c9-b014928ab0ee.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c591ff60-0636-4ded-aca6-71a3e45e8a62/ff003854-8678-4acf-93da-c2dc73f647b1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c591ff60-0636-4ded-aca6-71a3e45e8a62/72da62d9-9e00-4ea1-9b5c-8c67cfe71497.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c591ff60-0636-4ded-aca6-71a3e45e8a62/28a93419-b42f-442b-b7be-1a1472211dc6.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c591ff60-0636-4ded-aca6-71a3e45e8a62/d0221183-b3f4-453e-af1f-d1e1a224fe94.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c591ff60-0636-4ded-aca6-71a3e45e8a62/a91ab53f-19b5-421c-a776-50a64216c664.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c591ff60-0636-4ded-aca6-71a3e45e8a62/958a026b-041b-4605-a63b-ed3346bbc538.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c591ff60-0636-4ded-aca6-71a3e45e8a62/6065e8bc-f75b-4fd9-b3cc-0200df95305b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c591ff60-0636-4ded-aca6-71a3e45e8a62/e2e9445d-eb5c-45f5-b220-994c770f308e.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 67133",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DON+CAMILLO+Via+della+Maestranza+96+Siracusa",
+    "prenotaUrl": "https://www.ristorantedoncamillosiracusa.it/prenota/",
+    "descrizione": "Storico ristorante di cucina siciliana contemporanea, con forte vocazione di mare e cantina ricercata."
+  },
+  {
+    "posizione": 5,
+    "vetrina": 0,
+    "slug": "amuni-cocktail-bar-restaurant",
+    "nome": "AMUNÌ COCKTAIL BAR & RESTAURANT",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41cf2b95-384c-447b-9213-d850365cede1/281a0676-0fb2-403c-8b2f-2c29f260750e.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41cf2b95-384c-447b-9213-d850365cede1/281a0676-0fb2-403c-8b2f-2c29f260750e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41cf2b95-384c-447b-9213-d850365cede1/2ec7b152-4f48-4d4e-bef5-08bf4ff99c98.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41cf2b95-384c-447b-9213-d850365cede1/f7ae206b-793b-438e-8d01-a4cc453e784d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41cf2b95-384c-447b-9213-d850365cede1/79b3244c-66bb-4d29-b186-4aedd49f91e6.webp",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41cf2b95-384c-447b-9213-d850365cede1/69b37659-f120-413c-8594-37842e223ba5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41cf2b95-384c-447b-9213-d850365cede1/1254c99e-713a-4ced-ada9-b64df0370d52.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41cf2b95-384c-447b-9213-d850365cede1/75054392-36d8-4a5e-8aec-f208a037a2a1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41cf2b95-384c-447b-9213-d850365cede1/e711f5a8-25b2-4794-a915-d325e41f7279.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41cf2b95-384c-447b-9213-d850365cede1/91067810-d8d8-4492-be40-4e4ed5ec0171.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 187 1326",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AMUN%C3%8C+COCKTAIL+BAR+%26+RESTAURANT+Via+Roma+66+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/amuni-r742050",
+    "descrizione": "Cucina siciliana contemporanea e cocktail bar a pochi passi da Piazza Duomo."
+  },
+  {
+    "posizione": 6,
+    "vetrina": 0,
+    "slug": "la-chiave-di-ortigia",
+    "nome": "LA CHIAVE DI ORTIGIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff75e34f-04cc-4beb-9409-18a6dd475cda/e1497e8b-0e86-40a1-a726-0a38675d04af.png",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff75e34f-04cc-4beb-9409-18a6dd475cda/e1497e8b-0e86-40a1-a726-0a38675d04af.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff75e34f-04cc-4beb-9409-18a6dd475cda/c3d674c5-a47b-4254-9a9c-d9f23092a5f9.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff75e34f-04cc-4beb-9409-18a6dd475cda/7ae36d3a-bb42-459c-ad73-575e0f479008.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff75e34f-04cc-4beb-9409-18a6dd475cda/c10a691d-c218-436e-8495-1165dd5f81bf.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff75e34f-04cc-4beb-9409-18a6dd475cda/fda00674-ed61-4b01-ace3-3699f5921bf4.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/ff75e34f-04cc-4beb-9409-18a6dd475cda/bd7c46e7-e49c-4f5e-b35c-3cb680809e67.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/ff75e34f-04cc-4beb-9409-18a6dd475cda/40b071ef-ed46-4728-8daa-3101e0dcdcc8.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/ff75e34f-04cc-4beb-9409-18a6dd475cda/93d9f355-c45e-4d99-8d6e-b6a58b2d7277.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/ff75e34f-04cc-4beb-9409-18a6dd475cda/c4137824-630b-4789-88ed-a81ef2c1808a.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 324 894 8905",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LA+CHIAVE+DI+ORTIGIA+Via+Dei+Mergulensi+1-3+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/la-chiave-di-ortigia-r842430",
+    "descrizione": "Ristorante mediterraneo con specialità di pesce e piatti siciliani in una piazzetta raccolta."
+  },
+  {
+    "posizione": 7,
+    "vetrina": 0,
+    "slug": "macalle-sicilian",
+    "nome": "MACALLÈ SICILIAN",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6b536d00-c50d-4a95-adfa-5d6adb6c08f2/88e1c6ce-a125-4448-be85-f1651457e3c2.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6b536d00-c50d-4a95-adfa-5d6adb6c08f2/88e1c6ce-a125-4448-be85-f1651457e3c2.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6b536d00-c50d-4a95-adfa-5d6adb6c08f2/e6bbc07a-b702-48fd-9872-7b6ea8133daa.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6b536d00-c50d-4a95-adfa-5d6adb6c08f2/356c3a32-4a8b-4a7b-a6e8-9ef8d645fddd.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6b536d00-c50d-4a95-adfa-5d6adb6c08f2/7de1aee5-0233-4611-843a-f2718d247ab4.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6b536d00-c50d-4a95-adfa-5d6adb6c08f2/c5842e83-a78f-4751-a665-f1b573bcb157.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6b536d00-c50d-4a95-adfa-5d6adb6c08f2/7d1fce53-a472-4f8b-9395-2e4bccfc7744.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6b536d00-c50d-4a95-adfa-5d6adb6c08f2/5e20cb13-5d98-4977-8fbd-0ef9c83986b3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6b536d00-c50d-4a95-adfa-5d6adb6c08f2/13f443aa-92b4-47ad-8691-685e2cfad8e8.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6b536d00-c50d-4a95-adfa-5d6adb6c08f2/b269f890-04fa-4402-930c-06f673571b0a.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 392 297 4875",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MACALL%C3%88+SICILIAN+Via+dei+Santi+Coronati+44+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/macalle-sicilian-r75349",
+    "descrizione": "Bistrot siciliano contemporaneo con cucina stagionale, pesce e percorsi curati dallo chef."
+  },
+  {
+    "posizione": 8,
+    "vetrina": 0,
+    "slug": "retroscena",
+    "nome": "RETROSCENA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/942e6397-f948-4362-8471-045ce23eebdb/c0a73c98-b7a3-48dc-a0c6-e02752ef7aa0.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/942e6397-f948-4362-8471-045ce23eebdb/c0a73c98-b7a3-48dc-a0c6-e02752ef7aa0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/942e6397-f948-4362-8471-045ce23eebdb/0f0508fc-1b13-441f-b6ed-f02ee379766c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/942e6397-f948-4362-8471-045ce23eebdb/8c2ba003-3c03-4daf-b4bd-5bbe7a46765e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/942e6397-f948-4362-8471-045ce23eebdb/247ef511-400d-4464-b305-604accdff888.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/942e6397-f948-4362-8471-045ce23eebdb/d2f06916-43b3-4721-be59-e189f4f9fe38.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/942e6397-f948-4362-8471-045ce23eebdb/9b55997c-d269-4978-b109-158f525d8402.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/942e6397-f948-4362-8471-045ce23eebdb/9165c9b9-802d-4e54-af44-2dfe48f4336c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/942e6397-f948-4362-8471-045ce23eebdb/43adcd87-36e3-4cb1-8f62-5739f3470dcf.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/942e6397-f948-4362-8471-045ce23eebdb/39a56f31-125e-4b84-91e5-806e5e1f9c14.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 185 4278",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RETROSCENA+Via+della+Maestranza+106+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/retroscena-r639443",
+    "descrizione": "Cucina mediterranea creativa in un ambiente intimo, con pasta, pesce e proposte stagionali."
+  },
+  {
+    "posizione": 9,
+    "vetrina": 0,
+    "slug": "la-sciccheria-ortigia",
+    "nome": "LA SCICCHERIA ORTIGIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5036d708-53c2-4c7f-91ff-099b8861c7b6/8e6b6b99-957a-4d58-b71d-417f2917676f.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5036d708-53c2-4c7f-91ff-099b8861c7b6/8e6b6b99-957a-4d58-b71d-417f2917676f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5036d708-53c2-4c7f-91ff-099b8861c7b6/71897044-0492-45fd-9c9c-b8ab888ca450.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5036d708-53c2-4c7f-91ff-099b8861c7b6/74902419-3b87-4a3d-8204-85aecb777a89.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5036d708-53c2-4c7f-91ff-099b8861c7b6/3ae30033-47df-45bd-80fb-e06e2e6318cd.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5036d708-53c2-4c7f-91ff-099b8861c7b6/b1d4740c-74de-4f76-8301-868301b8a9aa.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5036d708-53c2-4c7f-91ff-099b8861c7b6/50310f2d-e22e-40cb-8e08-d1ad64accb61.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5036d708-53c2-4c7f-91ff-099b8861c7b6/ad5e2527-4cd0-4985-89e2-5a757c0bbc86.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5036d708-53c2-4c7f-91ff-099b8861c7b6/57484af3-6edd-4a0c-b321-55677faf7a4a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5036d708-53c2-4c7f-91ff-099b8861c7b6/1394ca8c-dc33-4439-8aa0-97352c6c908e.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pizza",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 388 349 7652",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LA+SCICCHERIA+ORTIGIA+Via+Saverio+Landolina+14+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/la-sciccheria-ortigia-r67204",
+    "descrizione": "Pesce, pasta e pinse con numerose proposte senza glutine nel centro di Ortigia."
+  },
+  {
+    "posizione": 10,
+    "vetrina": 0,
+    "slug": "biancopepe",
+    "nome": "BIANCOPEPE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/364fbc1f-7188-47fd-9ebb-023d94758189/c1b63465-655f-4eeb-9dbc-18f998e4ca06.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/364fbc1f-7188-47fd-9ebb-023d94758189/c1b63465-655f-4eeb-9dbc-18f998e4ca06.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/364fbc1f-7188-47fd-9ebb-023d94758189/ac78c7e5-2936-4dfc-9e0b-8eecbf7e9309.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/364fbc1f-7188-47fd-9ebb-023d94758189/0c4bfa14-db72-4f50-a683-5c15daacff1b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/364fbc1f-7188-47fd-9ebb-023d94758189/93b4698e-7b1c-4ead-b70e-bcd46ea9d94e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/364fbc1f-7188-47fd-9ebb-023d94758189/681c585c-1e3b-4f87-bd11-e06f7a5f141b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/364fbc1f-7188-47fd-9ebb-023d94758189/fb5968ee-e94b-45a8-bdeb-7cf5cf8c17a2.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/364fbc1f-7188-47fd-9ebb-023d94758189/ea87dff8-f2f0-4eab-803e-fa19151d7b5f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/364fbc1f-7188-47fd-9ebb-023d94758189/7e98cd4f-1212-4392-b94d-b58f564d5347.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/364fbc1f-7188-47fd-9ebb-023d94758189/9f8a6699-01a8-40b5-ae6a-46f187a050c9.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pizza",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 185 2406",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BIANCOPEPE+Piazza+del+Precursore+7-9+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/biancopepe-r524333",
+    "descrizione": "Pizzeria e ristorante siciliano nella Giudecca, con pesce, cucina locale e cocktail."
+  },
+  {
+    "posizione": 11,
+    "vetrina": 0,
+    "slug": "dave-ortigia",
+    "nome": "DAVÈ ORTIGIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/89ab794a-c302-4a4f-b399-368d16ca20b5/0ed6acbb-0c78-4698-a251-1da0387df1d1.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/89ab794a-c302-4a4f-b399-368d16ca20b5/0ed6acbb-0c78-4698-a251-1da0387df1d1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/89ab794a-c302-4a4f-b399-368d16ca20b5/bebfc43f-30bc-4fa0-8275-6cb430d69da1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/89ab794a-c302-4a4f-b399-368d16ca20b5/ea6c5fb3-2a00-4901-956c-8ea659dc97ae.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/89ab794a-c302-4a4f-b399-368d16ca20b5/967eed52-e8a9-4459-8075-bd10335e8898.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/89ab794a-c302-4a4f-b399-368d16ca20b5/784652e0-8cec-4370-9ee6-a83b8950ae40.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/89ab794a-c302-4a4f-b399-368d16ca20b5/85ba96a6-a23b-4d32-93b9-0c08e928afa0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/89ab794a-c302-4a4f-b399-368d16ca20b5/ba0b611d-4064-43b6-89fd-b7fe80e58ec9.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/89ab794a-c302-4a4f-b399-368d16ca20b5/ade36a6c-3bde-4150-84ec-c7092f9fc2c1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/89ab794a-c302-4a4f-b399-368d16ca20b5/2b83b667-b1e0-4bf4-9d9b-2bb9495db861.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 967821",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DAV%C3%88+ORTIGIA+Via+della+Giudecca+75+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/dave-ortigia-r695489",
+    "descrizione": "Tradizione siciliana reinterpretata in chiave contemporanea, tra pescato, carne e pasta."
+  },
+  {
+    "posizione": 12,
+    "vetrina": 0,
+    "slug": "l-altra-isola",
+    "nome": "L'ALTRA ISOLA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1cef703d-5caf-49c3-ac91-2067709f0479/b841e262-d6d5-45ca-8928-341923682314.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1cef703d-5caf-49c3-ac91-2067709f0479/b841e262-d6d5-45ca-8928-341923682314.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1cef703d-5caf-49c3-ac91-2067709f0479/910daf9f-a8a3-46db-9916-a8a4e38456ed.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1cef703d-5caf-49c3-ac91-2067709f0479/4c19651d-3b01-4bc5-9205-fd9d80f17ff9.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1cef703d-5caf-49c3-ac91-2067709f0479/53c932db-2741-46a1-aea8-003d82043f85.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1cef703d-5caf-49c3-ac91-2067709f0479/d5f3446d-30e5-4592-94fe-5333795472df.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1cef703d-5caf-49c3-ac91-2067709f0479/04306e6f-80de-49c1-97d7-26e43151c4ab.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1cef703d-5caf-49c3-ac91-2067709f0479/4fac2d73-d28a-4e49-b257-87ea8d8b4cc2.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1cef703d-5caf-49c3-ac91-2067709f0479/48997dfa-1122-43c3-b627-9d600f33dd7b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1cef703d-5caf-49c3-ac91-2067709f0479/27d0c08e-b028-4ffb-ab18-8dd5b33ede24.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 393 030 0384",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27ALTRA+ISOLA+Via+Cavour+13-15+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/l-altra-isola-r841640",
+    "descrizione": "Ristorante siciliano informale specializzato in pesce fresco, primi di mare e grigliate."
+  },
+  {
+    "posizione": 13,
+    "vetrina": 0,
+    "slug": "locanda-del-collegio",
+    "nome": "LOCANDA DEL COLLEGIO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/99870969-ea25-410f-9420-92b7101255c0/12faf7bd-54ab-4761-93b7-9409e4bb253b.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/99870969-ea25-410f-9420-92b7101255c0/12faf7bd-54ab-4761-93b7-9409e4bb253b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/99870969-ea25-410f-9420-92b7101255c0/156bd901-8010-4b71-8dc7-0bfb94401860.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/99870969-ea25-410f-9420-92b7101255c0/eebe853c-7cd0-47f5-a21a-97d0593902df.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/99870969-ea25-410f-9420-92b7101255c0/38aa6d74-091d-4f25-9bb2-c7944ed639bf.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/99870969-ea25-410f-9420-92b7101255c0/253cd65d-9177-481c-8964-bad9dab674cc.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/99870969-ea25-410f-9420-92b7101255c0/30c2e397-1016-418e-804a-09cf49cdf325.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/99870969-ea25-410f-9420-92b7101255c0/0bc917bc-6358-4f19-ae87-58b9a1f97855.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/99870969-ea25-410f-9420-92b7101255c0/966f7253-799b-4cf2-ba32-43f4d0a84f3d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/99870969-ea25-410f-9420-92b7101255c0/e288d3c8-144d-4f6c-a313-39535d7b142d.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pizza",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 185 5111",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LOCANDA+DEL+COLLEGIO+Via+del+Collegio+13-15+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/locanda-del-collegio-r858721",
+    "descrizione": "Cucina siciliana, pesce e pizza in una tranquilla traversa del centro storico."
+  },
+  {
+    "posizione": 14,
+    "vetrina": 0,
+    "slug": "moon-move-ortigia-out-of-normality",
+    "nome": "MOON - MOVE ORTIGIA OUT OF NORMALITY",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7f4c851d-2c3a-4fe6-9d02-004cd070f138/ec04e3b6-d15f-4d2c-a86b-12ce67361d6d.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7f4c851d-2c3a-4fe6-9d02-004cd070f138/ec04e3b6-d15f-4d2c-a86b-12ce67361d6d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7f4c851d-2c3a-4fe6-9d02-004cd070f138/bc44f4a3-8539-4ccc-8a35-5d946535f1be.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7f4c851d-2c3a-4fe6-9d02-004cd070f138/48929e2c-5e49-4940-a537-75901c88a61e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7f4c851d-2c3a-4fe6-9d02-004cd070f138/99fe8eee-ef01-4908-824d-63f6b41f691c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7f4c851d-2c3a-4fe6-9d02-004cd070f138/cd8c33b6-853c-4763-858a-e9e66f5a0bf1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7f4c851d-2c3a-4fe6-9d02-004cd070f138/37df61c8-2eb3-4382-a61c-6e6b72a23f01.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7f4c851d-2c3a-4fe6-9d02-004cd070f138/792719c3-6bf1-4738-bb15-b57d72e9ce2b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7f4c851d-2c3a-4fe6-9d02-004cd070f138/7a0bb42a-9f09-4747-887a-c924c2023247.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7f4c851d-2c3a-4fe6-9d02-004cd070f138/52056cd1-89ef-4baf-93f3-e3be8448ffa0.jpg"
+    ],
+    "categorie": [
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 449516",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MOON+-+MOVE+ORTIGIA+OUT+OF+NORMALITY+Via+Roma+112+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/moon-move-ortigia-out-of-normality-r834226",
+    "descrizione": "Ristorante interamente vegano con cucina creativa, cocktail e contaminazioni siciliane e internazionali."
+  },
+  {
+    "posizione": 15,
+    "vetrina": 0,
+    "slug": "clandestino-ad-ortigia",
+    "nome": "CLANDESTINO AD ORTIGIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1aa774b9-8258-4a19-afed-3ed4871b36be/84fc98dd-4aa1-4682-8aab-1edcdcbe960b.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1aa774b9-8258-4a19-afed-3ed4871b36be/84fc98dd-4aa1-4682-8aab-1edcdcbe960b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1aa774b9-8258-4a19-afed-3ed4871b36be/54ec9aaa-ddcb-48a9-b6eb-990ecc39ab8a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1aa774b9-8258-4a19-afed-3ed4871b36be/2f1fdbfc-ba63-420a-bc6b-bf30c9f9aec3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1aa774b9-8258-4a19-afed-3ed4871b36be/d5b65591-22a8-472d-bd64-1591b4743913.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1aa774b9-8258-4a19-afed-3ed4871b36be/10bc4980-406b-494d-a7c4-3dffd0b38d50.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1aa774b9-8258-4a19-afed-3ed4871b36be/f7816286-4381-4cf1-bf3c-9f87be407a0e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1aa774b9-8258-4a19-afed-3ed4871b36be/4ea96b2e-2800-4fde-852b-5bda25eab29d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1aa774b9-8258-4a19-afed-3ed4871b36be/f4d43c53-fb4f-44dc-b256-eaa51096a431.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1aa774b9-8258-4a19-afed-3ed4871b36be/6b2d2010-722e-4c06-84bf-e0512eb608a8.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 156 1457",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CLANDESTINO+AD+ORTIGIA+Via+della+Maestranza+126+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/clandestino-ad-ortigia-r695109",
+    "descrizione": "Cucina mediterranea contemporanea con forte impronta di mare e percorsi degustazione."
+  },
+  {
+    "posizione": 16,
+    "vetrina": 0,
+    "slug": "la-locanda-di-vicolo-iv",
+    "nome": "LA LOCANDA DI VICOLO IV",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff66690d-5ae5-4d3b-875c-102195c3c81d/24c41e43-bde0-47b8-b204-1232cbb816ae.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff66690d-5ae5-4d3b-875c-102195c3c81d/24c41e43-bde0-47b8-b204-1232cbb816ae.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff66690d-5ae5-4d3b-875c-102195c3c81d/fb87ff34-80b5-4fb3-9438-2aa96eb4a950.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff66690d-5ae5-4d3b-875c-102195c3c81d/af06d31c-6880-4a49-9f01-2a20e1055a72.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff66690d-5ae5-4d3b-875c-102195c3c81d/8422180d-33b2-4601-bc34-51e5e6ca3c87.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff66690d-5ae5-4d3b-875c-102195c3c81d/d29fa2a8-7737-4174-bc87-5af17842d85a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff66690d-5ae5-4d3b-875c-102195c3c81d/4c05b1fe-dc07-4060-a112-40132808958a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff66690d-5ae5-4d3b-875c-102195c3c81d/37112733-ae00-44e5-8367-b510419b2773.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff66690d-5ae5-4d3b-875c-102195c3c81d/4958b82c-aa12-42ef-8649-2a8de2569fc8.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/ff66690d-5ae5-4d3b-875c-102195c3c81d/b24f0356-6136-4223-a8d7-dbe6a7fb102a.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 967727",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LA+LOCANDA+DI+VICOLO+IV+Lungomare+di+Levante+Elio+Vittorini+22+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/la-locanda-di-vicolo-iv-r737524",
+    "descrizione": "Cucina siciliana e di mare sul lungomare di Levante, con pasta e specialità tradizionali."
+  },
+  {
+    "posizione": 17,
+    "vetrina": 0,
+    "slug": "regina-lucia",
+    "nome": "REGINA LUCIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a5edfef8-62ff-400d-9dfd-ce5ce4b344a6/3c66ea91-96ff-4864-858c-0c22539fd06a.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a5edfef8-62ff-400d-9dfd-ce5ce4b344a6/3c66ea91-96ff-4864-858c-0c22539fd06a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a5edfef8-62ff-400d-9dfd-ce5ce4b344a6/62b2254d-7af7-4f2d-bf26-440736d1bec0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a5edfef8-62ff-400d-9dfd-ce5ce4b344a6/56d238ff-d244-49fc-a0c7-999d81d64378.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a5edfef8-62ff-400d-9dfd-ce5ce4b344a6/191cb962-0dae-4170-93ed-b07936c12c05.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a5edfef8-62ff-400d-9dfd-ce5ce4b344a6/c72117cc-2b0a-4026-8336-ebc7ebc528eb.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a5edfef8-62ff-400d-9dfd-ce5ce4b344a6/a2ee46fe-6f19-45e5-861c-0db60477d5b4.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a5edfef8-62ff-400d-9dfd-ce5ce4b344a6/155ed3fa-efdb-4dee-bed7-3399837cafb5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a5edfef8-62ff-400d-9dfd-ce5ce4b344a6/82373039-6685-4cc9-943c-a133650384ca.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a5edfef8-62ff-400d-9dfd-ce5ce4b344a6/44c5c64e-4868-4799-8290-41fd3ff98f01.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 22509",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=REGINA+LUCIA+Piazza+Duomo+6+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/regina-lucia-r588833",
+    "descrizione": "Cucina siciliana contemporanea di fascia alta affacciata sulla scenografica Piazza Duomo."
+  },
+  {
+    "posizione": 18,
+    "vetrina": 0,
+    "slug": "la-tavernetta-uno-da-simone",
+    "nome": "LA TAVERNETTA UNO DA SIMONE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7ae57c74-6783-4de4-9213-d0c5182a2aa8/6f315a00-ba3a-4492-8fbd-55253573f0aa.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7ae57c74-6783-4de4-9213-d0c5182a2aa8/6f315a00-ba3a-4492-8fbd-55253573f0aa.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7ae57c74-6783-4de4-9213-d0c5182a2aa8/18b1171c-cd4b-47f2-803c-691f5d3a95b4.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7ae57c74-6783-4de4-9213-d0c5182a2aa8/9564e69d-0be0-4435-a1e6-9d644732e335.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7ae57c74-6783-4de4-9213-d0c5182a2aa8/6489e8f3-8863-4bba-80ad-de2209c56362.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7ae57c74-6783-4de4-9213-d0c5182a2aa8/0797a898-1bda-4ef5-bdd5-48e2acd75749.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7ae57c74-6783-4de4-9213-d0c5182a2aa8/aff783ad-a9f5-4596-b24b-f4077050102d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7ae57c74-6783-4de4-9213-d0c5182a2aa8/c99c0033-6824-4763-b98a-c573690ee80a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7ae57c74-6783-4de4-9213-d0c5182a2aa8/cca12e49-0b76-4e60-8bac-bdbc0e5e4ec3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/7ae57c74-6783-4de4-9213-d0c5182a2aa8/9a57ff64-e68c-4b1e-8cd1-1f54e6a146de.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 66385",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LA+TAVERNETTA+UNO+DA+SIMONE+Via+Cavour+44+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/la-tavernetta-uno-da-simone-r637501",
+    "descrizione": "Trattoria siciliana di pesce con primi tradizionali, pescato e specialità al pistacchio."
+  },
+  {
+    "posizione": 19,
+    "vetrina": 0,
+    "slug": "la-tavernetta-da-piero",
+    "nome": "LA TAVERNETTA DA PIERO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c7750662-eb25-4061-9ba9-9785449f17e1/e465f17d-de47-46c5-a3b8-12bfb364da9b.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c7750662-eb25-4061-9ba9-9785449f17e1/e465f17d-de47-46c5-a3b8-12bfb364da9b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c7750662-eb25-4061-9ba9-9785449f17e1/43cefef8-82b3-4f0b-8fcb-a8beac99b9b2.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c7750662-eb25-4061-9ba9-9785449f17e1/6ef95466-e053-4ea6-9c23-ca7119fef332.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c7750662-eb25-4061-9ba9-9785449f17e1/6f8002ea-641a-4634-bffd-91efc70c6099.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c7750662-eb25-4061-9ba9-9785449f17e1/a97c6e01-6048-4568-a94e-c8693ed80d84.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c7750662-eb25-4061-9ba9-9785449f17e1/4554a5ae-b3be-47c6-bb33-da097540c8ab.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c7750662-eb25-4061-9ba9-9785449f17e1/b4388c48-670e-45bf-bceb-e43b2d7af9e3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c7750662-eb25-4061-9ba9-9785449f17e1/7c808ac4-bc5e-41f2-bb25-e3db5bacc63d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c7750662-eb25-4061-9ba9-9785449f17e1/dae6c08f-2bc0-4886-89fa-3357c98e9c44.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 185 5291",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LA+TAVERNETTA+DA+PIERO+Via+Cavour+59+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/la-tavernetta-da-piero-r70830",
+    "descrizione": "Trattoria siciliana vivace, conosciuta per pasta di mare, pesce e piatti della tradizione."
+  },
+  {
+    "posizione": 20,
+    "vetrina": 0,
+    "slug": "antica-corte-dei-bottari",
+    "nome": "ANTICA CORTE DEI BOTTARI",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dd4de0cb-ed0f-4c5b-8315-554f65288757/8f166b24-d4f1-4fb5-b97b-df2bc149b4e8.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dd4de0cb-ed0f-4c5b-8315-554f65288757/8f166b24-d4f1-4fb5-b97b-df2bc149b4e8.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dd4de0cb-ed0f-4c5b-8315-554f65288757/5cf4e5ca-1fee-431a-9d8c-12dc935a9f4c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dd4de0cb-ed0f-4c5b-8315-554f65288757/f96200b8-7915-4d94-8511-f457b3f9f526.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dd4de0cb-ed0f-4c5b-8315-554f65288757/ed02034c-5b64-4b79-a379-695d4247fce3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/dd4de0cb-ed0f-4c5b-8315-554f65288757/df004807-5715-48ee-8281-39e0ecdef8a7.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/dd4de0cb-ed0f-4c5b-8315-554f65288757/7eae6163-3fcd-411f-b57b-498158e0400b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/dd4de0cb-ed0f-4c5b-8315-554f65288757/2d7b51ee-0f1d-46b1-b0de-bbfadab811aa.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/dd4de0cb-ed0f-4c5b-8315-554f65288757/7ee8db7e-57f1-4872-99ef-24757233e493.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/dd4de0cb-ed0f-4c5b-8315-554f65288757/1c9a4c57-9fd8-4b43-a4c5-570160ef5606.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 329 746 0985",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ANTICA+CORTE+DEI+BOTTARI+Via+della+Amalfitania+58-62+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/antica-corte-dei-bottari-r479805",
+    "descrizione": "Cucina siciliana curata, tra pesce, pasta e piatti di terra, in un ambiente storico."
+  },
+  {
+    "posizione": 21,
+    "vetrina": 0,
+    "slug": "triscele",
+    "nome": "TRISCELE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c34e1168-8f77-41c3-a200-a13c0fa9ac86/db9a92b0-e1ce-4fb7-a1af-e70ccbd5a172.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c34e1168-8f77-41c3-a200-a13c0fa9ac86/db9a92b0-e1ce-4fb7-a1af-e70ccbd5a172.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c34e1168-8f77-41c3-a200-a13c0fa9ac86/a4c06b7d-f8ea-4b60-8f91-8afc06507a68.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c34e1168-8f77-41c3-a200-a13c0fa9ac86/dd29a8ca-d04e-436d-af9b-c17d971ae1a3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c34e1168-8f77-41c3-a200-a13c0fa9ac86/25a41c10-3b56-4912-a312-a5e5a25efdc7.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c34e1168-8f77-41c3-a200-a13c0fa9ac86/c5437afe-8b8d-4fa8-896a-0124f44b1861.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c34e1168-8f77-41c3-a200-a13c0fa9ac86/f0812f3f-e2b6-44b3-9a99-3cac74aa00db.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c34e1168-8f77-41c3-a200-a13c0fa9ac86/dd141b74-a227-4e1d-9dbb-04caa37ccb1b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c34e1168-8f77-41c3-a200-a13c0fa9ac86/bac3df5b-1515-4a85-97f9-65cc2f248282.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c34e1168-8f77-41c3-a200-a13c0fa9ac86/88572e5e-91b4-4e44-b33e-7d733de52b01.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pizza",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 60312",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TRISCELE+Via+Santa+Teresa+12-18+Siracusa",
+    "prenotaUrl": "https://ristorantetriscelesiracusa.it/book-table/",
+    "descrizione": "Ristorante e pizzeria di cucina siciliana con crudi di mare, primi e pizze contemporanee."
+  },
+  {
+    "posizione": 22,
+    "vetrina": 0,
+    "slug": "alevante",
+    "nome": "aLEVANTE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/12bfd7c8-6e95-42cf-b262-21530b47b5bb/4dd6e305-bb35-4e98-9b19-7533de32fe7a.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/12bfd7c8-6e95-42cf-b262-21530b47b5bb/4dd6e305-bb35-4e98-9b19-7533de32fe7a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/12bfd7c8-6e95-42cf-b262-21530b47b5bb/2ec14da7-ea49-4e70-88be-f41d58bb053d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/12bfd7c8-6e95-42cf-b262-21530b47b5bb/247a4c27-fc83-4865-9821-dcba045d7f09.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/12bfd7c8-6e95-42cf-b262-21530b47b5bb/997324f7-36f5-4f06-a7e7-9400714ce2c9.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/12bfd7c8-6e95-42cf-b262-21530b47b5bb/272f5511-68e1-4cd7-b7a9-89b005845c77.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/12bfd7c8-6e95-42cf-b262-21530b47b5bb/414f403c-96d9-40a1-b042-9f305e93b173.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/12bfd7c8-6e95-42cf-b262-21530b47b5bb/edd2ecb4-b6e8-49f3-a451-04d8c91a031a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/12bfd7c8-6e95-42cf-b262-21530b47b5bb/8ccc2021-da9c-4253-80bf-2777ad71f07b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/12bfd7c8-6e95-42cf-b262-21530b47b5bb/42f55f2e-2e35-4cf3-8c19-adc1efd524aa.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 349 076 3996",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=aLevante+Largo+della+Gancia+5+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/alevante-r284701",
+    "descrizione": "Cucina mediterranea e di pesce sul lungomare di Ortigia, di fronte al Castello Maniace."
+  },
+  {
+    "posizione": 23,
+    "vetrina": 0,
+    "slug": "pindaro-bistrot",
+    "nome": "PINDARO BISTROT",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/79fe547b-3fa3-4beb-8f85-cd97320cfea0/f16c76e7-a955-40b6-a458-06b8fe8a3fd8.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/79fe547b-3fa3-4beb-8f85-cd97320cfea0/f16c76e7-a955-40b6-a458-06b8fe8a3fd8.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/79fe547b-3fa3-4beb-8f85-cd97320cfea0/bd4aa2c3-a91c-46c1-bf69-31954d99f858.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/79fe547b-3fa3-4beb-8f85-cd97320cfea0/42e24453-83ea-4daa-8a6a-be01f505cbb0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/79fe547b-3fa3-4beb-8f85-cd97320cfea0/0510487f-d36d-46a7-84bd-fddd19c4fc8f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/79fe547b-3fa3-4beb-8f85-cd97320cfea0/facaa75d-4af1-498c-bf89-4ff6dfec30df.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/79fe547b-3fa3-4beb-8f85-cd97320cfea0/4c31bf4e-b8d5-414e-8b58-12b7c85d3480.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/79fe547b-3fa3-4beb-8f85-cd97320cfea0/b2f06264-98a1-4aa2-8673-a9963b5b7796.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/79fe547b-3fa3-4beb-8f85-cd97320cfea0/81faec23-e62b-4ba6-b8e2-b3046668dbdb.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/79fe547b-3fa3-4beb-8f85-cd97320cfea0/0795a77f-f3e1-4016-b689-aaf3d3172c9e.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "carne"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 156 0419",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pindaro+Bistrot+Largo+Aretusa+2+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/pindaro-bistrot-r719971",
+    "descrizione": "Bistrot mediterraneo a pochi passi dalla Fonte Aretusa, con proposte di mare e terra."
+  },
+  {
+    "posizione": 24,
+    "vetrina": 0,
+    "slug": "cortile-spirito-santo",
+    "nome": "CORTILE SPIRITO SANTO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b199673f-2c4d-4b61-b78a-d02cdf82418a/9914b4fb-00ca-46c3-8218-f2dfd5bef1e8.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b199673f-2c4d-4b61-b78a-d02cdf82418a/9914b4fb-00ca-46c3-8218-f2dfd5bef1e8.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b199673f-2c4d-4b61-b78a-d02cdf82418a/57804621-81bb-4f14-b50e-992461f78b2f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b199673f-2c4d-4b61-b78a-d02cdf82418a/31afc361-62e3-40e1-a4ee-983b3de25e05.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b199673f-2c4d-4b61-b78a-d02cdf82418a/e599e222-126f-4448-9979-abbb1f98c9b5.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b199673f-2c4d-4b61-b78a-d02cdf82418a/6ade7a1b-1464-42f2-a710-0d85c6f60f01.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b199673f-2c4d-4b61-b78a-d02cdf82418a/b7342e36-7048-4fda-b0fb-e5a89b704e70.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b199673f-2c4d-4b61-b78a-d02cdf82418a/2bdc98f0-8ab2-4489-afe4-82879f79cbd1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b199673f-2c4d-4b61-b78a-d02cdf82418a/ae699704-2098-4dad-bfdc-542a294b2ddf.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b199673f-2c4d-4b61-b78a-d02cdf82418a/d40d599d-f4f1-45c2-b05a-72ed2a9ccf33.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 181 5404",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cortile+Spirito+Santo+Via+Salomone+21+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/cortile-spirito-santo-r651447",
+    "descrizione": "Alta cucina mediterranea in un cortile storico di Ortigia, con percorso gastronomico contemporaneo."
+  },
+  {
+    "posizione": 25,
+    "vetrina": 0,
+    "slug": "trattoria-la-pigna",
+    "nome": "TRATTORIA LA PIGNA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cd939026-d0c1-4418-81ae-24f0889ab884/764b6d88-f8ed-4027-9c37-8f54006f4beb.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cd939026-d0c1-4418-81ae-24f0889ab884/764b6d88-f8ed-4027-9c37-8f54006f4beb.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cd939026-d0c1-4418-81ae-24f0889ab884/d04947e1-2500-47d0-9f88-2914c5efa41d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cd939026-d0c1-4418-81ae-24f0889ab884/dd96a151-cd49-4ead-b29d-5dec3cb8c34f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cd939026-d0c1-4418-81ae-24f0889ab884/4ffc6384-bd41-4816-894b-5e6a331ed90a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cd939026-d0c1-4418-81ae-24f0889ab884/9aed2cc6-8fa5-419e-b428-0d6583628713.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cd939026-d0c1-4418-81ae-24f0889ab884/acf2b169-78bc-4fbf-a881-76f4f3f4e88e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cd939026-d0c1-4418-81ae-24f0889ab884/4a37372f-9b60-4a42-9f66-e5a1edc3d3b9.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cd939026-d0c1-4418-81ae-24f0889ab884/3be2b089-9e93-49fc-a91e-33b49e28b864.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/cd939026-d0c1-4418-81ae-24f0889ab884/eb5ff6bb-f257-4339-a08f-fea5e9ed80c6.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 338 960 1407",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+La+Pigna+Via+della+Conciliazione+12+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/trattoria-la-pigna-r653861",
+    "descrizione": "Trattoria di pesce e cucina siciliana tradizionale nel cuore dell’isola di Ortigia."
+  },
+  {
+    "posizione": 26,
+    "vetrina": 0,
+    "slug": "locanda-maniace",
+    "nome": "LOCANDA MANIACE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/86960142-1108-43c1-a774-d1eee9d6cb7a/d163ef92-dd4b-4698-8323-cc3536541044.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/86960142-1108-43c1-a774-d1eee9d6cb7a/d163ef92-dd4b-4698-8323-cc3536541044.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/86960142-1108-43c1-a774-d1eee9d6cb7a/bd8be5c9-8153-4cda-9e6b-88f8ff9bbc3d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/86960142-1108-43c1-a774-d1eee9d6cb7a/0511514b-aa74-480f-af4e-414202be0e6a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/86960142-1108-43c1-a774-d1eee9d6cb7a/3a29e8f7-94cd-4057-b9c7-42dc086a7857.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/86960142-1108-43c1-a774-d1eee9d6cb7a/a84d7203-65bf-495d-80a2-f936e185ce19.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/86960142-1108-43c1-a774-d1eee9d6cb7a/54df087f-9b41-4d98-a88c-4c91ba74bb08.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/86960142-1108-43c1-a774-d1eee9d6cb7a/ee4717b7-2684-4b4b-b16a-cb1fc0f68c62.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/86960142-1108-43c1-a774-d1eee9d6cb7a/5516a2c0-4755-4d7c-95f0-547e1a259303.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/86960142-1108-43c1-a774-d1eee9d6cb7a/63b2fb21-1e99-4601-bbc8-44debad57e36.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 61308",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Locanda+Maniace+Via+Castello+Maniace+52+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/locanda-maniace-r271855",
+    "descrizione": "Cucina siciliana e mediterranea a pochi passi dal Castello Maniace, con forte vocazione marinara."
+  },
+  {
+    "posizione": 27,
+    "vetrina": 0,
+    "slug": "pesceduovo-ristorante-ortigia",
+    "nome": "PESCEDUOVO RISTORANTE ORTIGIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/320db8bd-6440-4151-9c51-1a3b9ec09b57/11a9af1b-c4ff-4103-9fe4-0a344ea6a5c4.png",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/320db8bd-6440-4151-9c51-1a3b9ec09b57/11a9af1b-c4ff-4103-9fe4-0a344ea6a5c4.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/320db8bd-6440-4151-9c51-1a3b9ec09b57/f1aa8e14-3141-4ed2-87b9-2420f9bad59f.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/320db8bd-6440-4151-9c51-1a3b9ec09b57/ab474547-b4b2-472a-b5ae-5362fa98125a.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/320db8bd-6440-4151-9c51-1a3b9ec09b57/6caf2db4-f799-4f00-96f2-528a2aa7e47b.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/320db8bd-6440-4151-9c51-1a3b9ec09b57/48ccc7d9-8c02-4dcc-a993-3437bf896fc5.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/320db8bd-6440-4151-9c51-1a3b9ec09b57/e6db21fa-997d-403a-8876-4755947ee3f2.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/320db8bd-6440-4151-9c51-1a3b9ec09b57/7a819002-ecc4-4c4b-9ff8-218eb8d4da4c.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/320db8bd-6440-4151-9c51-1a3b9ec09b57/6ab353d9-d57c-404c-b40d-89c9e0c4e958.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/320db8bd-6440-4151-9c51-1a3b9ec09b57/1757ca48-eef9-4a94-aad0-3f8e30bc4ad6.png"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "fastfood"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 196 0390",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pesceduovo+Ristorante+Ortigia+Via+Pompeo+Picherali+20+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/pesceduovo-ristorante-ortigia-r864004",
+    "descrizione": "Pesce, crudi e piatti siciliani in formula informale vicino al lungomare di Ortigia."
+  },
+  {
+    "posizione": 28,
+    "vetrina": 0,
+    "slug": "scuola-alimentare",
+    "nome": "SCUOLA ALIMENTARE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/bcea9c87-336a-416f-b39f-5703d0eecfb5/103e4e25-6295-4c5e-9a15-eeebcd42161b.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/bcea9c87-336a-416f-b39f-5703d0eecfb5/103e4e25-6295-4c5e-9a15-eeebcd42161b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/bcea9c87-336a-416f-b39f-5703d0eecfb5/3461b6ea-704a-4279-9de3-8fb173725bb4.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/bcea9c87-336a-416f-b39f-5703d0eecfb5/403eba67-2096-440b-89fb-7afb961f3e76.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/bcea9c87-336a-416f-b39f-5703d0eecfb5/eeeec718-8c28-4142-9e71-a35a1f3dc146.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/bcea9c87-336a-416f-b39f-5703d0eecfb5/9520fbdf-838c-47f3-98f6-0638d8aaa831.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/bcea9c87-336a-416f-b39f-5703d0eecfb5/9bc7ea24-a7db-4707-b49c-6c6345375bda.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/bcea9c87-336a-416f-b39f-5703d0eecfb5/d058b14e-fc2e-4be9-925c-7861fc863629.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/bcea9c87-336a-416f-b39f-5703d0eecfb5/5e7984fc-92ee-4e0a-9bfd-dc835f915510.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/bcea9c87-336a-416f-b39f-5703d0eecfb5/d58b2f75-33f4-488e-bb80-02801c4b2c9b.jpg"
+    ],
+    "categorie": [
+      "pasta",
+      "carne",
+      "pesce"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 095077",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Scuola+Alimentare+Via+della+Maestranza+66+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/scuola-alimentare-r810188",
+    "descrizione": "Ristorante ed enoteca di cucina siciliana, con prodotti locali e proposte anche vegetariane."
+  },
+  {
+    "posizione": 29,
+    "vetrina": 0,
+    "slug": "oz-eta-ortigia",
+    "nome": "OZ-ETA ORTIGIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b467e8d9-d1b9-49c7-81af-4eb58ea69c2c/cede1dcb-8dcc-4562-9aeb-43c3122d65ef.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b467e8d9-d1b9-49c7-81af-4eb58ea69c2c/cede1dcb-8dcc-4562-9aeb-43c3122d65ef.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b467e8d9-d1b9-49c7-81af-4eb58ea69c2c/29f21fed-af86-4306-963c-c1f58b00bc7a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b467e8d9-d1b9-49c7-81af-4eb58ea69c2c/f72dfef1-122e-45cb-b423-c6a24b567738.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b467e8d9-d1b9-49c7-81af-4eb58ea69c2c/23a54a91-b31d-4ac5-ac32-ac02dde06158.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b467e8d9-d1b9-49c7-81af-4eb58ea69c2c/4885457f-e094-4ab6-90b4-5e303c19159a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b467e8d9-d1b9-49c7-81af-4eb58ea69c2c/769e8dd1-75b7-48a4-a69e-7269ab08a8c4.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b467e8d9-d1b9-49c7-81af-4eb58ea69c2c/d566301c-e166-4d4a-af8d-132d35a120d0.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b467e8d9-d1b9-49c7-81af-4eb58ea69c2c/164fd606-259d-4a6c-ac6b-883a1432348f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b467e8d9-d1b9-49c7-81af-4eb58ea69c2c/59c2e03b-4798-4896-b2f9-9d280c442d29.jpg"
+    ],
+    "categorie": [
+      "carne",
+      "pasta",
+      "pesce"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 185 5002",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oz-eta+Ortigia+Via+Santa+Teresa+9+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/oz-eta-ortigia-r822748",
+    "descrizione": "Gastropub e ristorante di cucina siciliana e internazionale nella zona sud di Ortigia."
+  },
+  {
+    "posizione": 30,
+    "vetrina": 0,
+    "slug": "porta-marina-da-salvo",
+    "nome": "PORTA MARINA DA SALVO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5f216030-641f-4587-9028-b2d761d710b9/2d25fff4-c267-47dc-85a9-b48886becbba.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5f216030-641f-4587-9028-b2d761d710b9/2d25fff4-c267-47dc-85a9-b48886becbba.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5f216030-641f-4587-9028-b2d761d710b9/c537fda3-323f-4a0d-a1cf-975db7f3849d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5f216030-641f-4587-9028-b2d761d710b9/74611f79-052c-4d40-b063-d51d703979a5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5f216030-641f-4587-9028-b2d761d710b9/7dbcaf4f-63fb-47bd-9bcd-febd811b0bb6.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5f216030-641f-4587-9028-b2d761d710b9/bf65b5ad-ad36-4409-86b2-7601444cd3aa.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5f216030-641f-4587-9028-b2d761d710b9/49d1e27e-a2b6-44fe-93c8-2f3ff405e9e2.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5f216030-641f-4587-9028-b2d761d710b9/2e19a06e-346f-4574-8918-526ef6819903.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5f216030-641f-4587-9028-b2d761d710b9/01db26ce-6412-4c50-9fc7-4eacde98f8ad.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5f216030-641f-4587-9028-b2d761d710b9/6611de22-7782-4189-ab21-35ce3af7c0bb.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 22553",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Porta+Marina+da+Salvo+Via+dei+Candelai+35+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/porta-marina-da-salvo-r638883",
+    "descrizione": "Ristorante di pesce e cucina mediterranea nei pressi di Porta Marina, nel centro di Ortigia."
+  },
+  {
+    "posizione": 31,
+    "vetrina": 0,
+    "slug": "cortile-bota-ortigia",
+    "nome": "CORTILE BOTÀ ORTIGIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/767668ef-7887-4396-9720-4f6742c9fdc3/030a0bcf-2db4-42dd-ab5e-91f73d87d46c.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/767668ef-7887-4396-9720-4f6742c9fdc3/030a0bcf-2db4-42dd-ab5e-91f73d87d46c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/767668ef-7887-4396-9720-4f6742c9fdc3/dc6f63b6-9838-4e7c-8a6a-582ea25413ea.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/767668ef-7887-4396-9720-4f6742c9fdc3/2f7fb9ae-ee75-4291-8f4d-eee5282fcdf0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/767668ef-7887-4396-9720-4f6742c9fdc3/21681843-a657-47d3-9e7b-3987ba884704.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/767668ef-7887-4396-9720-4f6742c9fdc3/1364c17f-791b-411d-b2a8-7a62b47f8c8a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/767668ef-7887-4396-9720-4f6742c9fdc3/c9d67859-4763-4c98-8e3b-5111e99b926c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/767668ef-7887-4396-9720-4f6742c9fdc3/b43f1956-06a5-4bad-b117-2f89d04b5a75.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/767668ef-7887-4396-9720-4f6742c9fdc3/ea7495c6-92df-454c-bd23-9b7242a4517d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/767668ef-7887-4396-9720-4f6742c9fdc3/1ebd7823-96c5-434b-9d61-174c90964ff0.png"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "carne"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 093645",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cortile+Bota+Ortigia+Via+Roma+120+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/cortile-bota-ortigia-r819209",
+    "descrizione": "Cucina siciliana, pesce e cocktail in un caratteristico cortile interno di Via Roma."
+  },
+  {
+    "posizione": 32,
+    "vetrina": 0,
+    "slug": "trattoria-da-michelone",
+    "nome": "TRATTORIA DA MICHELONE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5aaa432a-5e34-4515-bd65-b490f3302dec/efc17c06-a143-4820-bf24-c509877d0ec4.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5aaa432a-5e34-4515-bd65-b490f3302dec/efc17c06-a143-4820-bf24-c509877d0ec4.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5aaa432a-5e34-4515-bd65-b490f3302dec/835d7837-2ccb-402e-8208-a6054c352bc6.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5aaa432a-5e34-4515-bd65-b490f3302dec/1b65b318-71f1-4c27-971b-250b22d8f950.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5aaa432a-5e34-4515-bd65-b490f3302dec/7a9a164c-1e40-467b-b5d9-42a6c2419815.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5aaa432a-5e34-4515-bd65-b490f3302dec/0a38d0a4-5cb5-4b53-b18e-84b153325b16.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5aaa432a-5e34-4515-bd65-b490f3302dec/c138d371-6189-4356-8037-698a239accab.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5aaa432a-5e34-4515-bd65-b490f3302dec/b871d46d-0f35-4c38-8fb8-677c8fc9f12b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5aaa432a-5e34-4515-bd65-b490f3302dec/17b24eb6-8e1d-4817-a64c-61fd38f875ee.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5aaa432a-5e34-4515-bd65-b490f3302dec/b44e2750-1546-4780-b95b-5d0e7df1b81f.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 333 292 7411",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Da+Michelone+Via+Emmanuele+de+Benedictis+5+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/trattoria-da-michelone-r842264",
+    "descrizione": "Trattoria siciliana nel Mercato di Ortigia, specializzata in pesce fresco e ricette tradizionali."
+  },
+  {
+    "posizione": 33,
+    "vetrina": 0,
+    "slug": "almeyda-bistrot-cocktail-bar",
+    "nome": "ALMEYDA - BISTROT & COCKTAIL BAR",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/4390029f-db7d-44a0-92c4-f6a4a9b88a13/bfc95a96-e720-4c54-bb47-e5e51a97048c.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/4390029f-db7d-44a0-92c4-f6a4a9b88a13/bfc95a96-e720-4c54-bb47-e5e51a97048c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/4390029f-db7d-44a0-92c4-f6a4a9b88a13/5adc2eff-8244-4b34-9bc4-e84011a93360.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/4390029f-db7d-44a0-92c4-f6a4a9b88a13/ebe27531-7c8c-4e1b-ab16-b08cdad471a0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/4390029f-db7d-44a0-92c4-f6a4a9b88a13/5da198d7-5e10-4955-bc67-831d53b90931.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/4390029f-db7d-44a0-92c4-f6a4a9b88a13/879914f3-66d5-4e78-b04d-ec005fb69272.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/4390029f-db7d-44a0-92c4-f6a4a9b88a13/cdd8ec97-1338-481a-963b-79808040819a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/4390029f-db7d-44a0-92c4-f6a4a9b88a13/b31141a1-1f4e-4ad3-87e4-4c5257f48c5a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/4390029f-db7d-44a0-92c4-f6a4a9b88a13/84c06e89-09bf-43ec-8ca7-5834e4ec650c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/4390029f-db7d-44a0-92c4-f6a4a9b88a13/148a7462-3dfb-4ae4-a042-4549df38e318.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "carne"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 345 710 6108",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Almeyda+Bistrot+Cocktail+Bar+Via+del+Teatro+4+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/almeyda-bistrot-cocktail-bar-r862143",
+    "descrizione": "Bistrot e cocktail bar accanto al Teatro Comunale di Ortigia, con cucina siciliana contemporanea."
+  },
+  {
+    "posizione": 34,
+    "vetrina": 0,
+    "slug": "antica-locanda-siracusa",
+    "nome": "ANTICA LOCANDA, SIRACUSA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8cbc0f57-6604-4fb4-9c55-7122c541a2f4/6ef98203-7552-4bb8-a1c9-5b3800c4ff7a.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8cbc0f57-6604-4fb4-9c55-7122c541a2f4/6ef98203-7552-4bb8-a1c9-5b3800c4ff7a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8cbc0f57-6604-4fb4-9c55-7122c541a2f4/498f4049-3b1f-4a63-93ac-b5920bf2c7d8.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8cbc0f57-6604-4fb4-9c55-7122c541a2f4/9932cded-443e-4eac-949c-72285af919bc.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8cbc0f57-6604-4fb4-9c55-7122c541a2f4/46676d19-8e02-45e3-8234-9ec0c8322e97.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8cbc0f57-6604-4fb4-9c55-7122c541a2f4/da9f2a74-e11d-494b-81fd-67abaca462fc.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8cbc0f57-6604-4fb4-9c55-7122c541a2f4/136fa761-8b8f-495d-bb81-20d74b1cc274.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8cbc0f57-6604-4fb4-9c55-7122c541a2f4/31cf38fe-edfd-48a7-b24c-f3a4d13602d5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8cbc0f57-6604-4fb4-9c55-7122c541a2f4/fae93713-7361-464e-88e5-b894d20f7a9f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8cbc0f57-6604-4fb4-9c55-7122c541a2f4/ade956f9-7c4d-4fc7-954a-1a3e832a42d6.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 391 438 4768",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antica+Locanda+Via+Vittorio+Veneto+189+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/antica-locanda-siracusa-r472871",
+    "descrizione": "Cucina siciliana e mediterranea con forte vocazione al pesce, in una via tranquilla di Ortigia."
+  },
+  {
+    "posizione": 35,
+    "vetrina": 0,
+    "slug": "giove",
+    "nome": "GIOVE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f75f0332-fe28-4b07-a0c4-d23247765c37/27aeeb14-208e-44e2-aa6d-c5bd2f45e682.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f75f0332-fe28-4b07-a0c4-d23247765c37/27aeeb14-208e-44e2-aa6d-c5bd2f45e682.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f75f0332-fe28-4b07-a0c4-d23247765c37/2d315b50-9394-44fc-a7ff-f917318ebffb.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f75f0332-fe28-4b07-a0c4-d23247765c37/268e50cf-0faa-4aa2-950f-ac159a5b77ee.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f75f0332-fe28-4b07-a0c4-d23247765c37/e02134b2-fab7-4963-9026-148cb03e39b5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f75f0332-fe28-4b07-a0c4-d23247765c37/e3ce0d50-c8a2-45b7-b0eb-2ea52d93f843.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f75f0332-fe28-4b07-a0c4-d23247765c37/c52938c6-c255-4483-b0b9-08d99a3e8714.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f75f0332-fe28-4b07-a0c4-d23247765c37/8a139cac-6664-449a-83c3-b9ab3339b0c7.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f75f0332-fe28-4b07-a0c4-d23247765c37/0b4a1282-6a33-4ab7-9749-b3147a928f8f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f75f0332-fe28-4b07-a0c4-d23247765c37/21a9c7d1-0206-4617-8dda-e572cd1021da.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "carne"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 338 940 4775",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giove+Ronco+dei+Cassari+4+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/giove-r200142",
+    "descrizione": "Trattoria siciliana a conduzione familiare, con pesce, primi e cucina tradizionale in un ronco di Ortigia."
+  },
+  {
+    "posizione": 36,
+    "vetrina": 0,
+    "slug": "taverna-russo",
+    "nome": "TAVERNA RUSSO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b91ac8cc-4a49-4dab-beac-eecb74892b1f/1d35a249-fc35-41dc-8140-ff95714508f8.png",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b91ac8cc-4a49-4dab-beac-eecb74892b1f/1d35a249-fc35-41dc-8140-ff95714508f8.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b91ac8cc-4a49-4dab-beac-eecb74892b1f/134f9ab9-3670-4f98-84e0-012bc0106c0a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b91ac8cc-4a49-4dab-beac-eecb74892b1f/e7e821b0-233e-4dbb-9d23-32b7593fbb73.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b91ac8cc-4a49-4dab-beac-eecb74892b1f/7d9c93f1-4957-4633-a6e7-a748b7f0263d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b91ac8cc-4a49-4dab-beac-eecb74892b1f/eba8eba6-8096-4216-ab4e-a302b6e2c5f7.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b91ac8cc-4a49-4dab-beac-eecb74892b1f/4f553d01-89c1-4df4-8836-933b2ef0db1d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b91ac8cc-4a49-4dab-beac-eecb74892b1f/0a71d192-0fb1-4afa-8e54-7142c2ab38be.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b91ac8cc-4a49-4dab-beac-eecb74892b1f/7ff57357-1080-4d43-88aa-aea7795e367c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b91ac8cc-4a49-4dab-beac-eecb74892b1f/592e971f-14b8-4046-ace0-39e3e3fb46e4.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 314900",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taverna+Russo+Via+Vittorio+Veneto+22+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/taverna-russo-r868098",
+    "descrizione": "Cucina siciliana di mare e di terra in Palazzo Russo, con griglia Josper e terrazza sul mare."
+  },
+  {
+    "posizione": 37,
+    "vetrina": 0,
+    "slug": "trattoria-del-buongustaio",
+    "nome": "TRATTORIA DEL BUONGUSTAIO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/e7863b88-4dfb-4260-b51d-62e591eb64ec/4061f3c4-fe0a-4f26-8a0b-ae7df99190fe.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/e7863b88-4dfb-4260-b51d-62e591eb64ec/4061f3c4-fe0a-4f26-8a0b-ae7df99190fe.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/e7863b88-4dfb-4260-b51d-62e591eb64ec/2644f89f-3eca-4ab3-ba76-1d935efb0545.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/e7863b88-4dfb-4260-b51d-62e591eb64ec/d94a7660-bade-4c9d-a5a0-6a285cd2baee.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/e7863b88-4dfb-4260-b51d-62e591eb64ec/6558aebb-eaea-4c1b-ac76-63a662fbe8ea.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/e7863b88-4dfb-4260-b51d-62e591eb64ec/73713c69-f0af-4a9c-be41-742775e0a1e7.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/e7863b88-4dfb-4260-b51d-62e591eb64ec/fdad35e7-ed5f-4fee-ae09-6ee63ea179db.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/e7863b88-4dfb-4260-b51d-62e591eb64ec/c5f324cc-849a-4802-ab68-a49e499adf7c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/e7863b88-4dfb-4260-b51d-62e591eb64ec/6706f21f-c89e-4059-b6aa-a6d597d62d6c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/e7863b88-4dfb-4260-b51d-62e591eb64ec/0b64caf4-4aa6-4e1f-b255-00971d07aa3a.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "pizza"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 60197",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+del+Buongustaio+Via+Trieste+11+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/trattoria-del-buongustaio-r57420",
+    "descrizione": "Trattoria siciliana informale nel cuore di Ortigia, con primi di mare, pesce e pizza."
+  },
+  {
+    "posizione": 38,
+    "vetrina": 0,
+    "slug": "osteria-da-seby",
+    "nome": "L'OSTERIA DA SEBY",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a9bbf81c-656f-414d-999a-6c80d40324b7/a769f644-7da4-4ac8-a3b1-3217d56f4350.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a9bbf81c-656f-414d-999a-6c80d40324b7/a769f644-7da4-4ac8-a3b1-3217d56f4350.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a9bbf81c-656f-414d-999a-6c80d40324b7/2050335c-9e13-426f-9435-6a3c6769895d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a9bbf81c-656f-414d-999a-6c80d40324b7/75198610-f39e-425c-9d0b-1e3c056d56c1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a9bbf81c-656f-414d-999a-6c80d40324b7/17fbd9b7-53b2-4cc4-8a5b-e7d3132d7947.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a9bbf81c-656f-414d-999a-6c80d40324b7/6e39719f-82b3-4285-a8e1-d6b419c917e3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a9bbf81c-656f-414d-999a-6c80d40324b7/47d686f4-05df-4319-adf5-e90629663647.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a9bbf81c-656f-414d-999a-6c80d40324b7/595543c1-5d00-4d37-8588-9f7bdd75e894.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a9bbf81c-656f-414d-999a-6c80d40324b7/d41d1e38-610c-44bf-8452-9f58c1f00e8c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/a9bbf81c-656f-414d-999a-6c80d40324b7/88e13849-4cc6-4170-9372-3433d5223ca1.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "carne"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 181 5619",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Osteria+da+Seby+Via+Vincenzo+Mirabella+21+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/l-osteria-da-seby-r696253",
+    "descrizione": "Osteria siciliana nel cuore di Ortigia, con forte proposta di pesce, primi tradizionali e cortile interno."
+  },
+  {
+    "posizione": 39,
+    "vetrina": 0,
+    "slug": "il-veliero",
+    "nome": "IL VELIERO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6bf98f9d-b4c5-4382-96ab-48656b713316/1b51a30b-6b3e-4089-8b63-0c4ebe0f4c61.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6bf98f9d-b4c5-4382-96ab-48656b713316/1b51a30b-6b3e-4089-8b63-0c4ebe0f4c61.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6bf98f9d-b4c5-4382-96ab-48656b713316/d914415b-ad1e-43cd-93db-515a90f5928d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6bf98f9d-b4c5-4382-96ab-48656b713316/50ad09d5-948e-4d7d-baaf-fc83ebd1d6bd.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6bf98f9d-b4c5-4382-96ab-48656b713316/146c10d0-573b-4b4d-83eb-9121d28cc819.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6bf98f9d-b4c5-4382-96ab-48656b713316/1c58f853-5800-42d5-9a90-0c3f1f23be35.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6bf98f9d-b4c5-4382-96ab-48656b713316/b70b7076-7af7-416a-93d4-259d4801a8a6.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6bf98f9d-b4c5-4382-96ab-48656b713316/fc22d9d1-d530-4b90-9118-a9ac70f9b208.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6bf98f9d-b4c5-4382-96ab-48656b713316/1f323bea-99e2-44b7-b8c1-d4701a692b20.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6bf98f9d-b4c5-4382-96ab-48656b713316/938aded1-f471-4ca5-a58a-d466b8271d8e.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 465887",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Il+Veliero+Via+Savoia+6+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/il-veliero-r716814",
+    "descrizione": "Ristorante di pesce a conduzione familiare in Ortigia, con cucina marinara siciliana e pescato del giorno."
+  },
+  {
+    "posizione": 40,
+    "vetrina": 0,
+    "slug": "il-mare-di-pinella",
+    "nome": "IL MARE DI PINELLA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d8387b18-094c-4d0a-8f40-aadc9f3c0a43/829c06b7-7d0e-41e9-bc95-395042934921.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d8387b18-094c-4d0a-8f40-aadc9f3c0a43/829c06b7-7d0e-41e9-bc95-395042934921.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d8387b18-094c-4d0a-8f40-aadc9f3c0a43/3a904baa-21bf-45be-baff-03573e45cc9f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d8387b18-094c-4d0a-8f40-aadc9f3c0a43/bf1d3b8b-9ea3-45a8-a483-d0c2c8c9600c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d8387b18-094c-4d0a-8f40-aadc9f3c0a43/0c4018da-6b1e-4c92-b717-c3b4e8dba6ac.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d8387b18-094c-4d0a-8f40-aadc9f3c0a43/0ab4189a-9d33-404b-b7fe-d9934c2ac909.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d8387b18-094c-4d0a-8f40-aadc9f3c0a43/c164e83c-4cb6-4d14-b1fb-4bd7a3a43809.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d8387b18-094c-4d0a-8f40-aadc9f3c0a43/2b4ba4fe-e8ad-4226-b601-234878c7a165.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d8387b18-094c-4d0a-8f40-aadc9f3c0a43/74a00615-04d8-4b77-adc7-4d145ca7f464.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d8387b18-094c-4d0a-8f40-aadc9f3c0a43/69ad7922-5d15-4081-896e-418e2ec0924d.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "carne"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 329 677 3519",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Il+Mare+di+Pinella+Via+dei+Candelai+12+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/il-mare-di-pinella-r864036",
+    "descrizione": "Osteria di mare nel cuore di Ortigia, con ricette siciliane, pescato, primi di mare e cucina familiare."
+  },
+  {
+    "posizione": 41,
+    "vetrina": 0,
+    "slug": "l-ufficio",
+    "nome": "L'UFFICIO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e0d038a8-3481-45ad-ad78-b442f265c27d/29766b03-ca2e-4692-bfc2-2864fbc57afa.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e0d038a8-3481-45ad-ad78-b442f265c27d/29766b03-ca2e-4692-bfc2-2864fbc57afa.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e0d038a8-3481-45ad-ad78-b442f265c27d/cd90bff1-aff8-4035-8234-83f2004832cf.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e0d038a8-3481-45ad-ad78-b442f265c27d/0d65650f-9e93-4bfb-bc68-b34a073b6cb0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e0d038a8-3481-45ad-ad78-b442f265c27d/c7f35829-7964-4925-9865-8745a229ea58.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e0d038a8-3481-45ad-ad78-b442f265c27d/584ff7b1-1e67-4e93-ab3b-105599e0b648.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e0d038a8-3481-45ad-ad78-b442f265c27d/86eb6c64-81e0-4c31-b642-38d65302c10a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e0d038a8-3481-45ad-ad78-b442f265c27d/62cf94dc-ac66-4a3a-8736-5efbc000f16e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e0d038a8-3481-45ad-ad78-b442f265c27d/add6c880-8d2b-411a-a5fa-780ff29097ff.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e0d038a8-3481-45ad-ad78-b442f265c27d/7916286b-7f40-4e14-b5a8-68b413df58c6.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 962918",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=L%27Ufficio+Via+Tripoli+17+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/l-ufficio-r584325",
+    "descrizione": "Cucina contemporanea di mare e terra a pochi passi dai ponti di Ortigia."
+  },
+  {
+    "posizione": 42,
+    "vetrina": 0,
+    "slug": "donna-lina",
+    "nome": "DONNA LINA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9c31c22d-ff42-4efa-a310-4f0715b4a3fe/dc0cbfb2-6d1b-4962-9eb4-d020c1d11d8f.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9c31c22d-ff42-4efa-a310-4f0715b4a3fe/dc0cbfb2-6d1b-4962-9eb4-d020c1d11d8f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9c31c22d-ff42-4efa-a310-4f0715b4a3fe/9706cc6e-18ce-4219-9327-136aa9585e88.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9c31c22d-ff42-4efa-a310-4f0715b4a3fe/1769cbf3-e07f-4d3a-abda-fb6d3b85409d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9c31c22d-ff42-4efa-a310-4f0715b4a3fe/f30c8d3a-08a2-4bf2-928e-207b4df439b6.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9c31c22d-ff42-4efa-a310-4f0715b4a3fe/dc77fa98-7bf1-4c82-a732-c6df272ce1e5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9c31c22d-ff42-4efa-a310-4f0715b4a3fe/3245b594-0472-42e8-8d9d-f2f1eb2355f1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9c31c22d-ff42-4efa-a310-4f0715b4a3fe/259b7a62-3e76-4492-a554-e67797812d09.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9c31c22d-ff42-4efa-a310-4f0715b4a3fe/1e576ea2-fd89-4698-af15-b39c26adaaad.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/9c31c22d-ff42-4efa-a310-4f0715b4a3fe/2ca33cad-9e3b-470d-b231-11c05d3bb252.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 334 908 2745",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Donna+Lina+Via+Tripoli+24+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/donna-lina-r805781",
+    "descrizione": "Cucina mediterranea e siciliana, con una proposta fortemente legata al pesce."
+  },
+  {
+    "posizione": 43,
+    "vetrina": 0,
+    "slug": "ammuccamu-da-gianni",
+    "nome": "AMMUCCAMU DA GIANNI",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/87d5003b-d3d0-4348-a884-b17db1e53dd6/5c9e7963-d4ad-47f6-ad6e-0226605a90fd.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/87d5003b-d3d0-4348-a884-b17db1e53dd6/5c9e7963-d4ad-47f6-ad6e-0226605a90fd.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/87d5003b-d3d0-4348-a884-b17db1e53dd6/b29790b9-ee14-4f2e-909d-b402b91c086e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/87d5003b-d3d0-4348-a884-b17db1e53dd6/08c327c8-4517-4414-bb35-43b643725d07.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/87d5003b-d3d0-4348-a884-b17db1e53dd6/12d38b98-488b-4df0-8891-99bc25a0805b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/87d5003b-d3d0-4348-a884-b17db1e53dd6/4f1256fa-d14b-45ab-9f89-d8a68299de44.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/87d5003b-d3d0-4348-a884-b17db1e53dd6/5009d50a-3228-4b70-be56-03091ab3e54b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/87d5003b-d3d0-4348-a884-b17db1e53dd6/a41edc8b-590a-4585-b15e-f135b6329d43.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/87d5003b-d3d0-4348-a884-b17db1e53dd6/df578b5b-4a62-44de-bfe6-739cfb1d7d14.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/87d5003b-d3d0-4348-a884-b17db1e53dd6/1e9d93c1-b93e-47c5-8899-f5a62d9d2548.jpg"
+    ],
+    "categorie": [
+      "fastfood",
+      "carne",
+      "pesce"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 338 816 8313",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ammuccamu+da+Gianni+Via+Senatore+Giuseppe+Maielli+9+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/ammuccamu-da-gianni-r862554",
+    "descrizione": "Street food e cucina siciliana informale, tra panini e specialità di carne e pesce."
+  },
+  {
+    "posizione": 44,
+    "vetrina": 0,
+    "slug": "arrusti-e-mangia",
+    "nome": "ARRUSTI & MANGIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8c6ef494-d01e-416b-ba68-64980ccae9b2/18f0060d-71e3-4527-b085-1a1fb075eb91.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8c6ef494-d01e-416b-ba68-64980ccae9b2/18f0060d-71e3-4527-b085-1a1fb075eb91.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8c6ef494-d01e-416b-ba68-64980ccae9b2/b1074770-f9b3-4fac-a4bd-9af4ed798957.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8c6ef494-d01e-416b-ba68-64980ccae9b2/23a443a4-c514-4cc5-80b8-87eadd8f946c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8c6ef494-d01e-416b-ba68-64980ccae9b2/48af2669-dadf-493d-8ff9-9f22e4a9be40.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8c6ef494-d01e-416b-ba68-64980ccae9b2/38cf9fe2-bec9-4626-8e09-be05a51c2898.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8c6ef494-d01e-416b-ba68-64980ccae9b2/3f65a0a3-aff9-475c-9f1a-1823d125072a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8c6ef494-d01e-416b-ba68-64980ccae9b2/65d9bfd8-214d-48a6-8276-e4e4173dc067.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8c6ef494-d01e-416b-ba68-64980ccae9b2/f24ce26d-cb40-490e-9aa5-1f2b984c00d9.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/8c6ef494-d01e-416b-ba68-64980ccae9b2/0b51afdb-17e6-4bef-901a-f254892b28fb.jpg"
+    ],
+    "categorie": [
+      "carne",
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 463275",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Arrusti+e+Mangia+Ronco+Cristina+3+Siracusa",
+    "prenotaUrl": "https://arrustiemangia.it/",
+    "descrizione": "Ristomacelleria con specialità alla brace e proposte di carne, pesce e cucina siciliana."
+  },
+  {
+    "posizione": 45,
+    "vetrina": 0,
+    "slug": "fuori-ortigia-ristorante",
+    "nome": "FUORI ORTIGIA RISTORANTE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/fd5fc43e-0599-41be-853d-ad5f37191c19/b4f689b8-85c6-434e-9c89-71a240abd9ae.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/fd5fc43e-0599-41be-853d-ad5f37191c19/b4f689b8-85c6-434e-9c89-71a240abd9ae.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/fd5fc43e-0599-41be-853d-ad5f37191c19/ba005d32-7993-4610-b0ed-7d6f5f14eecc.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/fd5fc43e-0599-41be-853d-ad5f37191c19/5e8a2f8c-86cd-4a45-8c26-095f2288644a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/fd5fc43e-0599-41be-853d-ad5f37191c19/39cfde6d-1bcc-4310-8360-cde26464733e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/fd5fc43e-0599-41be-853d-ad5f37191c19/d0c91518-6a17-4111-a699-f72ef932c4bb.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/fd5fc43e-0599-41be-853d-ad5f37191c19/5349ce6c-d509-4bfd-be39-baca45ebe2c4.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/fd5fc43e-0599-41be-853d-ad5f37191c19/63a45b38-f0fb-4286-bc38-343ea01dd01b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/fd5fc43e-0599-41be-853d-ad5f37191c19/4cc596f9-25ba-4e44-b40f-451991b38ce2.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/fd5fc43e-0599-41be-853d-ad5f37191c19/19fa84b5-58fa-4f4c-ae2f-1b3a99aabc6c.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 338 227 7392",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fuori+Ortigia+Ristorante+Via+Tripoli+6+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/fuori-ortigia-ristorante-r813044",
+    "descrizione": "Ristorante mediterraneo appena fuori Ortigia, con cucina di pesce e primi piatti."
+  },
+  {
+    "posizione": 46,
+    "vetrina": 0,
+    "slug": "agape",
+    "nome": "AGAPE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/757ed5ac-5170-4138-b5ea-d5257738b37d/c3f9522b-ce72-4b61-9a75-02d94b2b9b5f.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/757ed5ac-5170-4138-b5ea-d5257738b37d/c3f9522b-ce72-4b61-9a75-02d94b2b9b5f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/757ed5ac-5170-4138-b5ea-d5257738b37d/18038327-ae93-4f63-bb70-f738e91a41ae.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/757ed5ac-5170-4138-b5ea-d5257738b37d/6af2a7a3-b82a-49a6-acff-27a6adfdcf08.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/757ed5ac-5170-4138-b5ea-d5257738b37d/672730ba-94ce-4ce5-abbb-6d1293743e60.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/757ed5ac-5170-4138-b5ea-d5257738b37d/9c474604-992d-44fb-9427-9b5ea3d25738.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/757ed5ac-5170-4138-b5ea-d5257738b37d/8fed875d-a324-44aa-8a46-7c440ae17e0d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/757ed5ac-5170-4138-b5ea-d5257738b37d/728d3362-033f-482f-9fa1-748d1fe7da74.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/757ed5ac-5170-4138-b5ea-d5257738b37d/cafea210-e06e-4943-b100-aec0d3bcbc45.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/757ed5ac-5170-4138-b5ea-d5257738b37d/e50b8caf-caed-41af-ba75-95e1b7f2fcaa.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 376 226 5068",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agape+Corso+Umberto+I+50+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/agape-r818756",
+    "descrizione": "Cucina italiana contemporanea sul Corso Umberto, tra mare, terra e primi piatti."
+  },
+  {
+    "posizione": 47,
+    "vetrina": 0,
+    "slug": "locanda-sike",
+    "nome": "LOCANDA SIKÈ",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/efeac971-350e-4342-8cce-ba22bfae9243/edbd1e05-336e-4375-9e70-4c92c1bde32b.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/efeac971-350e-4342-8cce-ba22bfae9243/edbd1e05-336e-4375-9e70-4c92c1bde32b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/efeac971-350e-4342-8cce-ba22bfae9243/64160ffd-c48c-4c8c-9b1a-95253bb4635b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/efeac971-350e-4342-8cce-ba22bfae9243/37cd9545-aabe-4869-b4b4-6b18b817ca2e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/efeac971-350e-4342-8cce-ba22bfae9243/bc910e5e-d762-4820-91b0-55266d75e6ad.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/efeac971-350e-4342-8cce-ba22bfae9243/4bb049d0-4e49-437d-81fe-5e187e0e463c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/efeac971-350e-4342-8cce-ba22bfae9243/ee0a354a-9701-4b01-b139-9b0f56b31b6f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/efeac971-350e-4342-8cce-ba22bfae9243/67046064-1f7d-422b-9b09-4ef334cc5a64.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/efeac971-350e-4342-8cce-ba22bfae9243/22c27ff7-5799-4fed-9a1f-0ce6c6e950a3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/efeac971-350e-4342-8cce-ba22bfae9243/687f3026-9168-468c-ba9f-e8b3c2e89fd6.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 388 092 5908",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Locanda+Sike+Corso+Umberto+I+11+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/locanda-sike-r734196",
+    "descrizione": "Cucina siciliana e mediterranea con una forte presenza di pesce e sapori locali."
+  },
+  {
+    "posizione": 48,
+    "vetrina": 0,
+    "slug": "san-ristorante",
+    "nome": "SAN RISTORANTE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/69e73f37-4ae9-491b-bed7-1de5a66c35e3/ffa0d042-03ec-481c-880c-6f7fb3fbfb7b.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/69e73f37-4ae9-491b-bed7-1de5a66c35e3/ffa0d042-03ec-481c-880c-6f7fb3fbfb7b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/69e73f37-4ae9-491b-bed7-1de5a66c35e3/41d45ed8-d03c-4e96-a476-617abeefb464.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/69e73f37-4ae9-491b-bed7-1de5a66c35e3/563407aa-ac72-4770-b34f-6485765f2aa5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/69e73f37-4ae9-491b-bed7-1de5a66c35e3/9cdd0d48-39ab-4736-8098-c6843495e4b5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/69e73f37-4ae9-491b-bed7-1de5a66c35e3/0c7778fc-de89-4ccb-aa9a-0812aca2a107.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/69e73f37-4ae9-491b-bed7-1de5a66c35e3/55125714-723d-4f3e-81e1-97d0c335341b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/69e73f37-4ae9-491b-bed7-1de5a66c35e3/3bb308a4-3b92-4e2b-8bbe-763f84fc99b0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/69e73f37-4ae9-491b-bed7-1de5a66c35e3/86d8c06a-3016-4242-bbd0-a4fc5cbac443.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/69e73f37-4ae9-491b-bed7-1de5a66c35e3/7e4d3c9d-dc81-4283-ba1f-f276f244de89.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 338 593 5005",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SAN+RISTORANTE+Via+Luigi+Greco+Cassia+7+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/san-ristorante-r862941",
+    "descrizione": "Ristorante di pesce con cucina mediterranea moderna e primi piatti curati."
+  },
+  {
+    "posizione": 49,
+    "vetrina": 0,
+    "slug": "la-latteria-mamma-iabica",
+    "nome": "LA LATTERIA MAMMA IABICA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f7854b75-7310-48ba-8c7c-c5cc7f56bec1/30249a25-781e-4124-807d-c5391fe250b7.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f7854b75-7310-48ba-8c7c-c5cc7f56bec1/30249a25-781e-4124-807d-c5391fe250b7.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f7854b75-7310-48ba-8c7c-c5cc7f56bec1/13471c2e-6edf-4d6a-8f1d-61cce42042b4.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f7854b75-7310-48ba-8c7c-c5cc7f56bec1/5f05899c-52ef-4397-b645-38251c02bc43.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f7854b75-7310-48ba-8c7c-c5cc7f56bec1/4a70d679-4b6d-4d0c-a3e4-91856eebbd73.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f7854b75-7310-48ba-8c7c-c5cc7f56bec1/dfd2d7ff-e4e6-4a48-bbbc-dc895cfb8e87.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f7854b75-7310-48ba-8c7c-c5cc7f56bec1/d285b481-56a2-4f28-a35f-872ce9ff735e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f7854b75-7310-48ba-8c7c-c5cc7f56bec1/06f09313-a65d-4dfc-b4a9-3186eb36a106.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f7854b75-7310-48ba-8c7c-c5cc7f56bec1/36f7bead-5076-4589-9aeb-5d4d547d3901.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/f7854b75-7310-48ba-8c7c-c5cc7f56bec1/039fac2d-5c3c-4bca-b23e-d9dd830a93eb.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "carne"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 339 453 1731",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La+Latteria+Mamma+Iabica+Via+GB+Perasso+13+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/la-latteria-mamma-iabica-r365643",
+    "descrizione": "Bistrot siciliano con cucina creativa, prodotti del territorio e piatti di mare e terra."
+  },
+  {
+    "posizione": 50,
+    "vetrina": 0,
+    "slug": "ostaria",
+    "nome": "OSTARIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c60332c0-9c46-4de0-b465-a47700ce0995/431f3738-c260-41ad-8fdc-240d4e14475e.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c60332c0-9c46-4de0-b465-a47700ce0995/431f3738-c260-41ad-8fdc-240d4e14475e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c60332c0-9c46-4de0-b465-a47700ce0995/9276217b-780c-4a72-8e3f-1a43e36340ec.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c60332c0-9c46-4de0-b465-a47700ce0995/ea6ef787-d733-4635-9db7-b6bf5a13d721.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c60332c0-9c46-4de0-b465-a47700ce0995/87890d29-481c-49e5-8e4a-75bea9cae616.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/c60332c0-9c46-4de0-b465-a47700ce0995/46e5ab5c-c597-4335-9ee2-f826e6cb235e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/c60332c0-9c46-4de0-b465-a47700ce0995/81c93095-de4f-400d-a0ae-02340af89f15.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/c60332c0-9c46-4de0-b465-a47700ce0995/896ab68e-0dc5-495d-a4b9-a0485c663403.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/c60332c0-9c46-4de0-b465-a47700ce0995/a837a3cd-73c9-4fbe-8703-bdcc92132ea7.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/c60332c0-9c46-4de0-b465-a47700ce0995/2725135c-cde8-42dd-b27e-3e966afa2b28.jpg"
+    ],
+    "categorie": [
+      "carne"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 090740",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ostaria+Via+GB+Perasso+10+Siracusa",
+    "prenotaUrl": "https://ostariasiracusa.it/",
+    "descrizione": "Ristorante specializzato nella carne, con selezione di tagli e cotture alla brace."
+  },
+  {
+    "posizione": 51,
+    "vetrina": 0,
+    "slug": "il-tiranno",
+    "nome": "IL TIRANNO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41284551-cc43-4322-b78d-054dcd288aa3/16e96e41-282c-4359-8f19-424fba80b45b.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41284551-cc43-4322-b78d-054dcd288aa3/16e96e41-282c-4359-8f19-424fba80b45b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41284551-cc43-4322-b78d-054dcd288aa3/5a37d939-bdae-4974-b675-177e1b3f671c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41284551-cc43-4322-b78d-054dcd288aa3/7cd757c9-879a-400f-9ada-fd39fb2b69d0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41284551-cc43-4322-b78d-054dcd288aa3/37e6b0e3-6af1-4325-8f5f-e1ad3290cbd3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41284551-cc43-4322-b78d-054dcd288aa3/a63acc47-c1b6-44ab-af01-30eae5e1dc08.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41284551-cc43-4322-b78d-054dcd288aa3/47da48fa-820c-4654-a483-3ea97b03f8a0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41284551-cc43-4322-b78d-054dcd288aa3/af142bcb-09f0-4fac-85e0-ea52498d96e4.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41284551-cc43-4322-b78d-054dcd288aa3/090c1a8c-edf6-45d7-909e-2e575b15448a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/41284551-cc43-4322-b78d-054dcd288aa3/e3fda981-95f4-4079-980c-45279e211364.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 581528",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Il+Tiranno+Viale+Montedoro+78+Siracusa",
+    "prenotaUrl": "https://iltiranno.it/",
+    "descrizione": "Cucina ricercata di mare e terra in una proposta contemporanea nel centro di Siracusa."
+  },
+  {
+    "posizione": 52,
+    "vetrina": 0,
+    "slug": "touche-beefstro",
+    "nome": "TOUCHÈ BEEFSTRÒ & COCKTAILS LAB",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5ce97ee0-deff-4e19-9bab-ff131b032ec7/20ff757f-0b66-4952-9a8d-27c833b20af8.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5ce97ee0-deff-4e19-9bab-ff131b032ec7/20ff757f-0b66-4952-9a8d-27c833b20af8.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5ce97ee0-deff-4e19-9bab-ff131b032ec7/2698b771-ce8e-4e5c-9dcc-4acb8de137aa.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5ce97ee0-deff-4e19-9bab-ff131b032ec7/f141b957-fe9a-443f-a666-473dd9dc1b71.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5ce97ee0-deff-4e19-9bab-ff131b032ec7/9123d035-df5f-43fb-a49d-56f7bfa74115.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5ce97ee0-deff-4e19-9bab-ff131b032ec7/95dbc03b-0f85-4ba6-a87a-a761bf42a84f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5ce97ee0-deff-4e19-9bab-ff131b032ec7/b9b91e19-9514-4680-9012-ee3675132d70.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5ce97ee0-deff-4e19-9bab-ff131b032ec7/1f108539-38ff-494a-8147-acc3848d5447.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5ce97ee0-deff-4e19-9bab-ff131b032ec7/a70fb02a-6f87-4aff-ac8f-a5b0172681e3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/5ce97ee0-deff-4e19-9bab-ff131b032ec7/2c55c8c3-a3e6-45ae-bc8d-554565890ca5.jpg"
+    ],
+    "categorie": [
+      "carne",
+      "fastfood"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 366 496 7079",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Touche+Beefstro+Via+Nino+Bixio+12+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/touche-beefstro-and-cocktails-lab-r585927",
+    "descrizione": "Steakhouse moderno con carni, hamburger e cocktail, poco distante dall'ingresso di Ortigia."
+  },
+  {
+    "posizione": 53,
+    "vetrina": 0,
+    "slug": "mokrito-3-viale-montedoro",
+    "nome": "MOKRITO 3.0 VIALE MONTEDORO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dcd2bbe4-6473-4e02-83e8-fa8b76fc026c/daf85e60-3a8d-4c69-9042-928b9cb279cb.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dcd2bbe4-6473-4e02-83e8-fa8b76fc026c/daf85e60-3a8d-4c69-9042-928b9cb279cb.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dcd2bbe4-6473-4e02-83e8-fa8b76fc026c/305ea749-f3e7-4bb9-a647-fb783ec50e20.webp",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dcd2bbe4-6473-4e02-83e8-fa8b76fc026c/2ccbffe0-5555-41c5-afc4-53b89a8f9205.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dcd2bbe4-6473-4e02-83e8-fa8b76fc026c/5a9504da-41e7-49bc-ab8a-526d4b6b888a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dcd2bbe4-6473-4e02-83e8-fa8b76fc026c/5818885d-bd1d-4d6c-9d3f-c77b3c3d0f49.webp",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dcd2bbe4-6473-4e02-83e8-fa8b76fc026c/81fc09b2-f2c2-4709-ba9d-04f5858ea942.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dcd2bbe4-6473-4e02-83e8-fa8b76fc026c/1f13ebf7-3f6c-4240-9a5a-b632061db828.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dcd2bbe4-6473-4e02-83e8-fa8b76fc026c/3a2b11e6-c8ba-402d-a5ba-db82c028e84b.webp",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/dcd2bbe4-6473-4e02-83e8-fa8b76fc026c/791000c3-fbe5-4122-84e7-c0346dce1e2a.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "fastfood",
+      "pasta"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 328 703 3141",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mokrito+3.0+Viale+Montedoro+54+Siracusa",
+    "prenotaUrl": "https://www.mokrito.it/",
+    "descrizione": "Fast casual siracusano con aperifish, piatti di pesce, pasta e proposte street food."
+  },
+  {
+    "posizione": 54,
+    "vetrina": 0,
+    "slug": "al-gambero-rosso",
+    "nome": "AL GAMBERO ROSSO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/30a59ff4-6316-49b0-bfc0-512fdb9aed5d/e9e86329-030b-4387-91f9-0bd99b330b97.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/30a59ff4-6316-49b0-bfc0-512fdb9aed5d/e9e86329-030b-4387-91f9-0bd99b330b97.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/30a59ff4-6316-49b0-bfc0-512fdb9aed5d/da124468-a245-42ea-8217-aec36ecc9c6a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/30a59ff4-6316-49b0-bfc0-512fdb9aed5d/e6cbeb12-4aaa-46f0-a7a6-26fad1f8554c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/30a59ff4-6316-49b0-bfc0-512fdb9aed5d/32caa432-46b6-4a65-a75e-aef6454a7cf6.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/30a59ff4-6316-49b0-bfc0-512fdb9aed5d/265daf20-baad-435e-9ab8-282f75f7fc8c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/30a59ff4-6316-49b0-bfc0-512fdb9aed5d/a3e6ec9c-927b-453c-9599-3bfb1cd05ce6.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/30a59ff4-6316-49b0-bfc0-512fdb9aed5d/f15d5702-81fb-44da-a97c-425cb2111072.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/30a59ff4-6316-49b0-bfc0-512fdb9aed5d/f406f0fc-6bd3-49da-97f8-dfe9abff6003.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/30a59ff4-6316-49b0-bfc0-512fdb9aed5d/c8ae334a-9212-41b6-9bf2-64b6e20e6de8.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "pizza"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 388 167 0878",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Al+Gambero+Rosso+Corso+Umberto+I+41+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/al-gambero-rosso-r816941",
+    "descrizione": "Ristorante di pesce sul Corso Umberto, con cucina mediterranea, primi e pizza."
+  },
+  {
+    "posizione": 55,
+    "vetrina": 0,
+    "slug": "aglae-storie-di-sapori",
+    "nome": "AGLAE STORIE DI SAPORI",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9fff5b58-b9b3-469e-be69-0a766e051954/b5689a4d-3a06-4cd6-b35c-07dcd16be2dc.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9fff5b58-b9b3-469e-be69-0a766e051954/b5689a4d-3a06-4cd6-b35c-07dcd16be2dc.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9fff5b58-b9b3-469e-be69-0a766e051954/7c925c5f-4622-4304-b8a8-e6838b955442.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9fff5b58-b9b3-469e-be69-0a766e051954/5b812d2c-aa9c-4a6c-859b-bc85d83ae59d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9fff5b58-b9b3-469e-be69-0a766e051954/bec0508c-c573-4ee4-a327-e02394771b5e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9fff5b58-b9b3-469e-be69-0a766e051954/329e3b61-a725-486a-82a2-52b4bf66d6f5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9fff5b58-b9b3-469e-be69-0a766e051954/500e6af8-8373-4d03-bdeb-a3642b548e6a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9fff5b58-b9b3-469e-be69-0a766e051954/5ac62512-82d3-49c2-acf8-484be34a058f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9fff5b58-b9b3-469e-be69-0a766e051954/baddcdc4-c61c-43f4-9b97-e8c4d7839535.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/9fff5b58-b9b3-469e-be69-0a766e051954/7ec8bf1f-482a-46d3-9d9b-d82034d4e176.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "carne",
+      "pasta"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 342 644 8345",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aglae+Storie+di+Sapori+Via+Rodi+1+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/aglae-storie-di-sapori-r729907",
+    "descrizione": "Ristorante contemporaneo con cucina gourmet, specialità di pesce e percorsi di gusto."
+  },
+  {
+    "posizione": 56,
+    "vetrina": 0,
+    "slug": "vabbe-pizza",
+    "nome": "VABBÈ PIZZA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e2cf90e0-94e3-4633-b63a-6d92ec10fcfd/f5eb3317-62cc-42d4-95f4-54564b7e2878.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e2cf90e0-94e3-4633-b63a-6d92ec10fcfd/f5eb3317-62cc-42d4-95f4-54564b7e2878.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e2cf90e0-94e3-4633-b63a-6d92ec10fcfd/d64e2f08-f70b-41ed-861a-3bbc72215d2d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e2cf90e0-94e3-4633-b63a-6d92ec10fcfd/ca50e798-e6b8-413b-b08b-1b41a271e0d0.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e2cf90e0-94e3-4633-b63a-6d92ec10fcfd/09cd4197-8340-415d-8bc2-b71246f82c0c.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e2cf90e0-94e3-4633-b63a-6d92ec10fcfd/e1485d30-2c59-4043-a385-59acbf39eb1e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e2cf90e0-94e3-4633-b63a-6d92ec10fcfd/2ce4959a-cedc-4e8a-8022-5e3511b65b95.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e2cf90e0-94e3-4633-b63a-6d92ec10fcfd/cdbbaf11-818e-4a91-b9be-d5c14b1bd4df.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e2cf90e0-94e3-4633-b63a-6d92ec10fcfd/6a0b37bb-f2f1-4ad0-876f-47ce17e38348.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/e2cf90e0-94e3-4633-b63a-6d92ec10fcfd/2dba268d-5afe-4008-8576-d129efaa20bf.jpg"
+    ],
+    "categorie": [
+      "pizza"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 366 733 8162",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vabbe+Pizza+Viale+Polibio+54+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/vabbe-pizza-r803171",
+    "descrizione": "Pizzeria contemporanea con impasti leggeri, ingredienti selezionati e proposte creative."
+  },
+  {
+    "posizione": 57,
+    "vetrina": 0,
+    "slug": "nabu-bistrot",
+    "nome": "NA/BU BISTROT",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1fc0b0d4-9b36-4950-9a74-63a08f446b0d/b9d3302f-dc43-4098-aa83-cbf7c3b1ee5d.png",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1fc0b0d4-9b36-4950-9a74-63a08f446b0d/b9d3302f-dc43-4098-aa83-cbf7c3b1ee5d.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1fc0b0d4-9b36-4950-9a74-63a08f446b0d/6d783e3b-5a5f-4a8c-ba99-a68571fdd875.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1fc0b0d4-9b36-4950-9a74-63a08f446b0d/dcfcd096-6407-4ca9-9430-a9632d8e0dfd.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1fc0b0d4-9b36-4950-9a74-63a08f446b0d/d60c3e66-40be-4d44-b050-ccff4253361c.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1fc0b0d4-9b36-4950-9a74-63a08f446b0d/4650dd97-51e5-4026-bcf7-2978483bd4b2.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1fc0b0d4-9b36-4950-9a74-63a08f446b0d/9b844e6b-780d-42a4-989f-bbc346e0b10e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/1fc0b0d4-9b36-4950-9a74-63a08f446b0d/793eb55b-e1ab-4237-afa5-f4ce8be5eca1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/1fc0b0d4-9b36-4950-9a74-63a08f446b0d/d6ebef00-bea1-49a2-a724-99968b6b5442.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_640%2Cc_fill%2Cq_auto%2Cf_auto/customer/1fc0b0d4-9b36-4950-9a74-63a08f446b0d/85421883-7f68-4f85-a2f8-5508279de8d0.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "carne"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 392 451 4190",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nabu+Bistrot+Via+Papa+Stefano+IV+2+Siracusa",
+    "prenotaUrl": "https://www.nabu-bistrot.it/contatti",
+    "descrizione": "Bistrot contemporaneo e inclusivo con cucina mediterranea, pesce e proposte vegetariane."
+  },
+  {
+    "posizione": 58,
+    "vetrina": 0,
+    "slug": "u-caruso",
+    "nome": "U' CARUSO",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/14a99acd-6262-449f-b8c3-d11e62ebc6c9/da9255bc-ff3c-4f89-a570-3ca0b1501c98.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/14a99acd-6262-449f-b8c3-d11e62ebc6c9/da9255bc-ff3c-4f89-a570-3ca0b1501c98.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/14a99acd-6262-449f-b8c3-d11e62ebc6c9/30f1d420-1a15-4718-a710-182a2c3840d3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/14a99acd-6262-449f-b8c3-d11e62ebc6c9/229b41ba-8fe8-4992-a7b7-757af8555b63.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/14a99acd-6262-449f-b8c3-d11e62ebc6c9/14087e6b-74a3-44c1-ab7e-1fb347922c30.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/14a99acd-6262-449f-b8c3-d11e62ebc6c9/d9c1294a-d0d4-41c0-af10-e2f365402583.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/14a99acd-6262-449f-b8c3-d11e62ebc6c9/40e984c8-de8f-4853-922b-59787d50517f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/14a99acd-6262-449f-b8c3-d11e62ebc6c9/fe7c2cbb-4f31-47ad-8821-4cd57aaea2c6.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/14a99acd-6262-449f-b8c3-d11e62ebc6c9/1a9823d5-6c3b-4648-b8b6-0a0f56453f00.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/14a99acd-6262-449f-b8c3-d11e62ebc6c9/80a0b167-b3e8-4b4c-8262-1edeca692277.jpg"
+    ],
+    "categorie": [
+      "pizza",
+      "carne",
+      "pesce"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 62223",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=U+Caruso+Viale+Luigi+Cadorna+95+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/u-caruso-r447931",
+    "descrizione": "Pizzeria e trattoria di quartiere con pizza, primi, carne, pesce e servizio da asporto."
+  },
+  {
+    "posizione": 59,
+    "vetrina": 0,
+    "slug": "forneria-siciliana-bistrot",
+    "nome": "FORNERIA SICILIANA BISTROT",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cb2facd9-368f-4e63-8eaa-fb41fc085c2e/b0d90f78-9fa5-4d95-9488-6ad45f5fcbb9.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cb2facd9-368f-4e63-8eaa-fb41fc085c2e/b0d90f78-9fa5-4d95-9488-6ad45f5fcbb9.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cb2facd9-368f-4e63-8eaa-fb41fc085c2e/6591efd4-99d6-4824-95bb-5835949597b3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cb2facd9-368f-4e63-8eaa-fb41fc085c2e/00ad798c-233e-45a4-8b08-b13c2dfb8100.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cb2facd9-368f-4e63-8eaa-fb41fc085c2e/825bcb35-76c7-4ec2-9aa3-8a2e073ff8f5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cb2facd9-368f-4e63-8eaa-fb41fc085c2e/b7e5f9cc-62d0-4c4d-9d7c-507099280761.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cb2facd9-368f-4e63-8eaa-fb41fc085c2e/6486ed42-f05f-47fb-833a-f54222acb75f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cb2facd9-368f-4e63-8eaa-fb41fc085c2e/2cc3fbd8-cb79-4750-96a8-5fad70d09b07.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cb2facd9-368f-4e63-8eaa-fb41fc085c2e/7039be53-bb3d-4179-b093-8ced8e89d2ee.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/cb2facd9-368f-4e63-8eaa-fb41fc085c2e/6f94d14e-b2be-4d0d-9852-c29e11cf786a.jpg"
+    ],
+    "categorie": [
+      "pizza",
+      "carne",
+      "pasta",
+      "fastfood"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 966746",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forneria+Siciliana+Bistrot+Corso+Umberto+I+46+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/forneria-siciliana-bistrot-r839729",
+    "descrizione": "Bistrot informale con arancini, tavola calda, pizza, pasta fresca e cucina siciliana."
+  },
+  {
+    "posizione": 60,
+    "vetrina": 0,
+    "slug": "beefore-steak-house",
+    "nome": "BEEFORE STEAK HOUSE",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d1e9a9fe-3570-402a-ba27-578f225cd999/699fa098-24da-46a4-9beb-e204dd32abc7.png",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d1e9a9fe-3570-402a-ba27-578f225cd999/699fa098-24da-46a4-9beb-e204dd32abc7.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d1e9a9fe-3570-402a-ba27-578f225cd999/069cbaf0-4784-4936-8d7d-c4e1bc2f99c8.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d1e9a9fe-3570-402a-ba27-578f225cd999/7b2636fd-e03d-47e8-ad5f-12f6a6dc6437.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d1e9a9fe-3570-402a-ba27-578f225cd999/d733c801-1dbb-4f35-8b48-af71b1188d9b.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d1e9a9fe-3570-402a-ba27-578f225cd999/ed45a8b5-3189-4d7d-b592-5cfeb4a8051e.png",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d1e9a9fe-3570-402a-ba27-578f225cd999/58189740-e230-44dc-8deb-5dc7aad6822e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d1e9a9fe-3570-402a-ba27-578f225cd999/fc0e0dab-0de4-420e-ac8f-0d86a7143e85.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d1e9a9fe-3570-402a-ba27-578f225cd999/ff7b22bc-27dd-4011-825f-36f6161b0f8d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d1e9a9fe-3570-402a-ba27-578f225cd999/427db159-2416-4824-ad0d-9e7679c0e196.jpg"
+    ],
+    "categorie": [
+      "carne",
+      "fastfood"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 198 7181",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BEEFore+Steak+House+Via+Mario+Gemmellaro+28+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/beefore-steak-house-r846052",
+    "descrizione": "Steakhouse dedicata alla carne, con tartare, hamburger e tagli alla griglia."
+  },
+  {
+    "posizione": 61,
+    "vetrina": 0,
+    "slug": "sapuritu",
+    "nome": "SAPURITU",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b115cc3b-c982-470b-b70a-3e4a84325158/6f2259da-8e7e-44d7-b0cf-6d78084bc3aa.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b115cc3b-c982-470b-b70a-3e4a84325158/6f2259da-8e7e-44d7-b0cf-6d78084bc3aa.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b115cc3b-c982-470b-b70a-3e4a84325158/f18ea17a-b286-4391-90b5-41dfd8f050dd.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b115cc3b-c982-470b-b70a-3e4a84325158/7e59c15a-2f34-429b-b73c-23b4b2c590de.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b115cc3b-c982-470b-b70a-3e4a84325158/429d5b31-565d-4229-a766-5eb846613fa7.webp",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b115cc3b-c982-470b-b70a-3e4a84325158/89542f60-7e3e-43cf-9853-79db6da60229.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b115cc3b-c982-470b-b70a-3e4a84325158/d2b64ba9-eb4e-4b71-a3a1-c849db694749.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b115cc3b-c982-470b-b70a-3e4a84325158/00ab1188-67b5-4461-91ae-3d50eea10733.webp",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b115cc3b-c982-470b-b70a-3e4a84325158/eae9f02f-dea9-4955-9974-1c05767a8f50.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/b115cc3b-c982-470b-b70a-3e4a84325158/7fbedc08-af08-4b89-869c-5088fceed4e6.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "carne"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 327 856 0553",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sapuritu+Viale+Santa+Panagia+61+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/sapuritu-r842494",
+    "descrizione": "Cucina siciliana contemporanea con pesce protagonista e alcune proposte di carne."
+  },
+  {
+    "posizione": 62,
+    "vetrina": 0,
+    "slug": "osteria-terra-mia",
+    "nome": "OSTERIA TERRA MIA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d08e6d9e-c81f-4f21-a391-61a7cb27a741/ded0ca78-701e-4906-ace0-d5d61994397e.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d08e6d9e-c81f-4f21-a391-61a7cb27a741/ded0ca78-701e-4906-ace0-d5d61994397e.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d08e6d9e-c81f-4f21-a391-61a7cb27a741/3a04d4d2-fe85-447a-96eb-42d69ccc0082.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d08e6d9e-c81f-4f21-a391-61a7cb27a741/212ecf17-75e5-4c91-9c7c-6c4639a0983f.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d08e6d9e-c81f-4f21-a391-61a7cb27a741/12922119-90b8-468c-8a35-0a08ca45d74d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d08e6d9e-c81f-4f21-a391-61a7cb27a741/b8cd4994-8ae9-41ed-94a2-ac220726d1bc.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d08e6d9e-c81f-4f21-a391-61a7cb27a741/a77efdba-e731-4158-8623-2fb6f6d22cf3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d08e6d9e-c81f-4f21-a391-61a7cb27a741/16305379-4742-4b19-99a2-78eaa3f79cf3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d08e6d9e-c81f-4f21-a391-61a7cb27a741/283d5e59-b628-4c06-aa54-16e0dac98c69.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d08e6d9e-c81f-4f21-a391-61a7cb27a741/0b369222-8e04-4d99-83ad-f2c28deba11b.jpg"
+    ],
+    "categorie": [
+      "pasta",
+      "carne",
+      "pesce"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 969304",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Osteria+Terra+Mia+Via+Giuseppe+di+Natale+10+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/osteria-terra-mia-r693645",
+    "descrizione": "Osteria siciliana familiare con primi tradizionali, carne e specialità mediterranee."
+  },
+  {
+    "posizione": 63,
+    "vetrina": 0,
+    "slug": "osteria-il-cantuccio-di-roma",
+    "nome": "OSTERIA IL CANTUCCIO DI ROMA",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d91b1357-4e24-428e-bfbb-f0a0000e5e95/df63a71b-30de-440f-b0bb-4b208b31a8b5.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d91b1357-4e24-428e-bfbb-f0a0000e5e95/df63a71b-30de-440f-b0bb-4b208b31a8b5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d91b1357-4e24-428e-bfbb-f0a0000e5e95/c398cd2e-b465-4d7a-b510-ba40ff9cd8e9.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d91b1357-4e24-428e-bfbb-f0a0000e5e95/044b88f3-e386-46bb-ab4e-fe3adb9f8d71.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d91b1357-4e24-428e-bfbb-f0a0000e5e95/358f405a-ce34-46aa-8561-124ff01de6d7.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d91b1357-4e24-428e-bfbb-f0a0000e5e95/07f1f3f8-572e-493c-af3c-3e2e8a2254bf.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d91b1357-4e24-428e-bfbb-f0a0000e5e95/6503d011-2aec-4c83-bdb2-68b30e1aeda1.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d91b1357-4e24-428e-bfbb-f0a0000e5e95/31a0d6e3-dd32-44dc-a0a2-fbf339b9930a.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d91b1357-4e24-428e-bfbb-f0a0000e5e95/ba2bac4f-da37-4fa3-bda5-ec5b2442e3c5.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/d91b1357-4e24-428e-bfbb-f0a0000e5e95/9064c717-4d9a-4152-af97-f60ecef06172.jpg"
+    ],
+    "categorie": [
+      "carne",
+      "pasta",
+      "pesce"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 328 919 9432",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Osteria+Il+Cantuccio+Via+della+Dogana+5+Siracusa",
+    "prenotaUrl": "https://www.thefork.it/ristorante/il-cantuccio-r699235",
+    "descrizione": "Osteria con classici della cucina romana affiancati da piatti mediterranei e siciliani."
+  },
+  {
+    "posizione": 64,
+    "vetrina": 0,
+    "slug": "trise-bistrot",
+    "nome": "TRISÉ BISTROT",
+    "immagine": "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6c075180-7575-4c3c-bf56-18f40db3d6db/116d20e0-49fc-4b16-abac-0bff06ecde0d.jpg",
+    "galleria": [
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6c075180-7575-4c3c-bf56-18f40db3d6db/116d20e0-49fc-4b16-abac-0bff06ecde0d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6c075180-7575-4c3c-bf56-18f40db3d6db/a351fe5c-2366-4694-8d6d-f976f619e403.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6c075180-7575-4c3c-bf56-18f40db3d6db/f9004777-2ede-4d17-abc3-a616819e82b3.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6c075180-7575-4c3c-bf56-18f40db3d6db/59b5697e-f2ff-45ad-8f88-d191fd7ea0a9.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6c075180-7575-4c3c-bf56-18f40db3d6db/2569e4de-7c42-46b4-982a-f442d6b3ac99.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6c075180-7575-4c3c-bf56-18f40db3d6db/278b4012-3315-47ca-87e2-12e8ebf4ce3d.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6c075180-7575-4c3c-bf56-18f40db3d6db/b4b7403f-a0aa-464f-8660-de62a24120c8.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6c075180-7575-4c3c-bf56-18f40db3d6db/58f77b8a-9db8-407a-87e0-bbd5558ed449.jpg",
+      "https://cdn.thefork.com/tf-lab/image/upload/w_500%2Ch_500%2Cc_fill%2Cq_auto%2Cf_jpg/restaurant/6c075180-7575-4c3c-bf56-18f40db3d6db/f2694398-a745-43f7-9069-f4d9bc3a89d3.jpg"
+    ],
+    "categorie": [
+      "pesce",
+      "pasta",
+      "carne"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 351 434 2948",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trise+Bistrot+Corso+Gelone+99+Siracusa",
+    "prenotaUrl": "https://xn--tris-epa.com/contatti",
+    "descrizione": "Bistrot contemporaneo vicino alla Neapolis, tra territorio, stagionalità e creatività."
+  }
+]

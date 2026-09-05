@@ -1,0 +1,459 @@
+[
+  {
+    "posizione": 1,
+    "vetrina": 0,
+    "slug": "algila-ortigia-charme-hotel",
+    "nome": "Algilà Ortigia Charme Hotel",
+    "immagine": "https://images.trvl-media.com/lodging/2000000/1890000/1883500/1883438/d402c8e9.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/2000000/1890000/1883500/1883438/d4c370bf.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/2000000/1890000/1883500/1883438/21bfa4a9.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/2000000/1890000/1883500/1883438/cef34bb1.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/2000000/1890000/1883500/1883438/1067f2dc.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 465186",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Algila+Ortigia+Charme+Hotel+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/algila-ortigia-charme.it.html",
+    "descrizione": "Hotel di charme sul lungomare di Ortigia, ricavato in edifici storici e caratterizzato da arredi eleganti e atmosfera siciliana."
+  },
+  {
+    "posizione": 2,
+    "vetrina": 0,
+    "slug": "grand-hotel-ortigia",
+    "nome": "Grand Hotel Ortigia Siracusa",
+    "immagine": "https://www.grandhotelortigia.it/wp-content/uploads/2024/03/Deluxe-vista-mare-36-1024x683.jpg",
+    "galleria": [
+      "https://www.grandhotelortigia.it/wp-content/uploads/2024/03/Duplex-junior-suite-vista-mare-21.jpg",
+      "https://images.trvl-media.com/lodging/2000000/1330000/1329500/1329454/b126abef.jpg?h=168&impolicy=fcrop&w=298",
+      "https://images.trvl-media.com/lodging/2000000/1330000/1329500/1329454/cc080552.jpg?h=168&impolicy=fcrop&w=298"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 464600",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Hotel+Ortigia+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/grand-ortigia.it.html",
+    "descrizione": "Storico hotel di fascia alta affacciato sul Porto Grande, in posizione strategica all’ingresso di Ortigia."
+  },
+  {
+    "posizione": 3,
+    "vetrina": 0,
+    "slug": "grand-hotel-des-etrangers",
+    "nome": "Grand Hotel Des Étrangers",
+    "immagine": "https://images.trvl-media.com/lodging/1000000/980000/976400/976389/cbf3a060.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/1000000/980000/976400/976389/d1e57884.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/1000000/980000/976400/976389/3abb85fe.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/1000000/980000/976400/976389/20f9f2e6.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/1000000/980000/976400/976389/2e723fb6.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 21543",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Hotel+Des+Etrangers+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/etrangers.it.html",
+    "descrizione": "Hotel di lusso sul waterfront di Ortigia, vicino alla Fonte Aretusa, con ambienti storici, terrazze panoramiche e servizi wellness."
+  },
+  {
+    "posizione": 4,
+    "vetrina": 0,
+    "slug": "ortea-palace-hotel",
+    "nome": "Ortea Palace Hotel, Sicily, Autograph Collection",
+    "immagine": "https://images.trvl-media.com/lodging/18000000/17830000/17825900/17825841/3b8d7262.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/18000000/17830000/17825900/17825841/3cd441f1.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/18000000/17830000/17825900/17825841/4f6bc901.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/18000000/17830000/17825900/17825841/d211e44f.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/18000000/17830000/17825900/17825841/d22de140.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 16681",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ortea+Palace+Hotel+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/ortea-palace-luxury.it.html",
+    "descrizione": "Cinque stelle nell’ex Palazzo delle Poste di Siracusa, edificio storico affacciato sul porto con spa, piscina interna e ristorazione."
+  },
+  {
+    "posizione": 5,
+    "vetrina": 0,
+    "slug": "minareto",
+    "nome": "Minareto",
+    "immagine": "https://images.trvl-media.com/lodging/3000000/2830000/2822400/2822343/d439594a.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/3000000/2830000/2822400/2822343/6824ea78.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/3000000/2830000/2822400/2822343/efec5cd6.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/3000000/2830000/2822400/2822343/6d4f37a0.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "resort"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 721222",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Minareto+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/grand-minareto.it.html",
+    "descrizione": "Resort sul mare nell’area del Plemmirio, con vista verso Ortigia, piscina a sfioro, spiaggia e servizi dedicati al relax."
+  },
+  {
+    "posizione": 6,
+    "vetrina": 0,
+    "slug": "musciara-siracusa-resort",
+    "nome": "Musciara Siracusa Resort",
+    "immagine": "https://images.trvl-media.com/lodging/3000000/2730000/2723500/2723438/f095e22f.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/3000000/2730000/2723500/2723438/7c4b2cc0.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/3000000/2730000/2723500/2723438/299e5ea5.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/3000000/2730000/2723500/2723438/bbbc249f.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "resort"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 463613",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Musciara+Siracusa+Resort",
+    "prenotaUrl": "https://www.booking.com/hotel/it/musciara-siracusa-resort.it.html",
+    "descrizione": "Maison d’hôtes di lusso direttamente sul mare, a pochi minuti a piedi da Ortigia, con area balneare privata riservata agli ospiti."
+  },
+  {
+    "posizione": 7,
+    "vetrina": 0,
+    "slug": "caportigia-boutique-hotel",
+    "nome": "Caportigia Boutique Hotel",
+    "immagine": "https://images.trvl-media.com/lodging/18000000/17520000/17519100/17519019/83105a89.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/18000000/17520000/17519100/17519019/2f1018dd.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/18000000/17520000/17519100/17519019/1ee23ac2.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/18000000/17520000/17519100/17519019/02af6ccd.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/18000000/17520000/17519100/17519019/e1667130.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 580576",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caportigia+Boutique+Hotel+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/caportigia.it.html",
+    "descrizione": "Boutique hotel nel centro di Siracusa, a breve distanza da Ortigia, con camere moderne, ristorante e terrazza panoramica."
+  },
+  {
+    "posizione": 8,
+    "vetrina": 0,
+    "slug": "maniace-boutique-hotel-ortigia",
+    "nome": "Maniace Boutique Hotel Ortigia | UNA Esperienze",
+    "immagine": "https://images.trvl-media.com/lodging/110000000/109090000/109087400/109087329/9c7a5849.jpg?h=346&impolicy=fcrop&w=614",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/110000000/109090000/109087400/109087329/bc8b9c27.jpg?h=168&impolicy=fcrop&w=298",
+      "https://images.trvl-media.com/lodging/110000000/109090000/109087400/109087329/da89c866.jpg?h=168&impolicy=fcrop&w=298",
+      "https://images.trvl-media.com/lodging/110000000/109090000/109087400/109087329/b3beadcc.jpg?h=168&impolicy=fcrop&w=298",
+      "https://images.trvl-media.com/lodging/110000000/109090000/109087400/109087329/353f8a90.jpg?h=168&impolicy=fcrop&w=298"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 1381538",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maniace+Boutique+Hotel+Ortigia+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/maniace-boutique-ortigia-iuna-esperienze.it.html",
+    "descrizione": "Boutique hotel sul Lungomare d’Ortigia con 21 camere, design contemporaneo e forte richiamo all’artigianato e alla cultura siciliana."
+  },
+  {
+    "posizione": 9,
+    "vetrina": 0,
+    "slug": "hotel-gutkowski",
+    "nome": "Hotel Gutkowski",
+    "immagine": "https://images.trvl-media.com/lodging/3000000/2540000/2535900/2535838/8f7f490c.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/3000000/2540000/2535900/2535838/2f13634a.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/3000000/2540000/2535900/2535838/969783a4.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/3000000/2540000/2535900/2535838/f3a78dc4.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/3000000/2540000/2535900/2535838/b5681c03.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 465861",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel+Gutkowski+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/gutkowski.it.html",
+    "descrizione": "Hotel affacciato sul lungomare di Levante di Ortigia, distribuito in due edifici storici restaurati con stile essenziale e siciliano."
+  },
+  {
+    "posizione": 10,
+    "vetrina": 0,
+    "slug": "charme-hotel-henrys-house",
+    "nome": "Charme Hotel Henry's House",
+    "immagine": "https://images.trvl-media.com/lodging/8000000/7800000/7797300/7797247/22f71eb5.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/8000000/7800000/7797300/7797247/2303e926.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/8000000/7800000/7797300/7797247/f02c4712.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/8000000/7800000/7797300/7797247/f43052d5.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/8000000/7800000/7797300/7797247/41d65721.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 21361",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charme+Hotel+Henrys+House+Siracusa",
+    "prenotaUrl": "https://www.booking.com/searchresults.it.html?ss=Charme+Hotel+Henry%27s+House+Siracusa",
+    "descrizione": "Boutique hotel a pochi passi dal Castello Maniace, con ambienti ricchi di dettagli storici, terrazze e suggestivi affacci sul mare."
+  },
+  {
+    "posizione": 11,
+    "vetrina": 0,
+    "slug": "hotel-gran-bretagna-ortigia",
+    "nome": "Hotel Gran Bretagna Ortigia",
+    "immagine": "https://images.trvl-media.com/lodging/3000000/2550000/2540100/2540095/bea4c457.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/3000000/2550000/2540100/2540095/d165b343.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/3000000/2550000/2540100/2540095/60cba36f.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/3000000/2550000/2540100/2540095/cd14efb3.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/3000000/2550000/2540100/2540095/1cfe2fce.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 327 4635703",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel+Gran+Bretagna+Ortigia+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/gran-bretagna-siracusa.it.html",
+    "descrizione": "Hotel nel centro storico di Ortigia, in Via Savoia, vicino al Tempio di Apollo e al Porto Grande."
+  },
+  {
+    "posizione": 12,
+    "vetrina": 0,
+    "slug": "hotel-posta-siracusa",
+    "nome": "Hotel Posta",
+    "immagine": "https://images.trvl-media.com/lodging/1000000/920000/917800/917761/de23622a.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/1000000/920000/917800/917761/0c4c08b8.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/1000000/920000/917800/917761/100407e2.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/1000000/920000/917800/917761/cb884c21.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/1000000/920000/917800/917761/92b126a4.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 21819",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel+Posta+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/hotelpostasirac.it.html",
+    "descrizione": "Hotel nel cuore di Ortigia affacciato sul Porto Piccolo, con terrazza e camere che in parte dispongono di vista sul mare."
+  },
+  {
+    "posizione": 13,
+    "vetrina": 0,
+    "slug": "alla-giudecca",
+    "nome": "Alla Giudecca",
+    "immagine": "https://images.trvl-media.com/lodging/2000000/1760000/1759000/1758948/b950080f.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/2000000/1760000/1759000/1758948/a7564410.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/2000000/1760000/1759000/1758948/bff5631d.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/2000000/1760000/1759000/1758948/57f02aa1.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/2000000/1760000/1759000/1758948/b2229263.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "appartamento"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 22255",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alla+Giudecca+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/allagiudeccasiracusa.it.html",
+    "descrizione": "Residence in un antico palazzo nel quartiere ebraico di Ortigia, con suite e mini-appartamenti e un importante bagno rituale ebraico nei sotterranei."
+  },
+  {
+    "posizione": 14,
+    "vetrina": 0,
+    "slug": "palazzo-gilistro",
+    "nome": "Palazzo Gilistro",
+    "immagine": "https://images.trvl-media.com/lodging/21000000/20420000/20416500/20416492/ea77fb6b.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/21000000/20420000/20416500/20416492/7908cacf.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/21000000/20420000/20416500/20416492/690c46be.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/21000000/20420000/20416500/20416492/0b69df38.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/21000000/20420000/20416500/20416492/e8061e09.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "bb"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 1857190",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Gilistro+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/palazzo-gilistro.it.html",
+    "descrizione": "Struttura nel pieno centro di Ortigia, in Via Cavour, comoda per raggiungere a piedi Piazza Duomo, il porto e le principali attrazioni."
+  },
+  {
+    "posizione": 15,
+    "vetrina": 0,
+    "slug": "palazzo-salomone",
+    "nome": "Palazzo Salomone",
+    "immagine": "https://images.trvl-media.com/lodging/43000000/42130000/42122700/42122671/11278e24.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/43000000/42130000/42122700/42122671/3c118619.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/43000000/42130000/42122700/42122671/0ee60ea2.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/43000000/42130000/42122700/42122671/e629e140.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/43000000/42130000/42122700/42122671/62ad77a7.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "hotel"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 1815404",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Salomone+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/palazzo-salomone-siracusa.it.html",
+    "descrizione": "Boutique stay di fascia alta vicino al Castello Maniace, con suite curate, ristorazione e spazi dedicati al benessere."
+  },
+  {
+    "posizione": 16,
+    "vetrina": 0,
+    "slug": "aretusa-vacanze-bb",
+    "nome": "Aretusa Vacanze B&B",
+    "immagine": "https://images.trvl-media.com/lodging/2000000/1110000/1105200/1105162/17927aba.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/2000000/1110000/1105200/1105162/e484a1ac.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/2000000/1110000/1105200/1105162/a6b26416.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/2000000/1110000/1105200/1105162/9b7a8a99.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/2000000/1110000/1105200/1105162/37f76f39.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "bb"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 483484",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aretusa+Vacanze+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/aretusavacanze.it.html",
+    "descrizione": "B&B in un palazzo del Seicento nel cuore di Ortigia, vicino alla Fonte Aretusa e a Piazza Duomo, con terrazza comune."
+  },
+  {
+    "posizione": 17,
+    "vetrina": 0,
+    "slug": "maeco-ortigia-bb",
+    "nome": "Maecò Ortigia B&B",
+    "immagine": "https://images.trvl-media.com/lodging/28000000/27370000/27369700/27369601/955b55b4.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/28000000/27370000/27369700/27369601/626f51d7.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/28000000/27370000/27369700/27369601/4e6d0979.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/28000000/27370000/27369700/27369601/9dfa0772.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/28000000/27370000/27369700/27369601/52f93684.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "bb"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 375 5371866",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maeco+Ortigia+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/maeco-ortigia-b-amp-b.it.html",
+    "descrizione": "B&B in Via Landolina, a pochi passi da Piazza Duomo, con camere curate e posizione centrale per esplorare Ortigia interamente a piedi."
+  },
+  {
+    "posizione": 18,
+    "vetrina": 0,
+    "slug": "archinue-suite-apartments",
+    "nome": "Archinuè Suite & Apartments",
+    "immagine": "https://images.trvl-media.com/lodging/23000000/22120000/22110600/22110520/9fb412e9.jpg?impolicy=resizecrop&ra=fit&rw=598",
+    "galleria": [
+      "https://images.trvl-media.com/lodging/23000000/22120000/22110600/22110520/409f9cfd.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/23000000/22120000/22110600/22110520/2d9d0ace.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/23000000/22120000/22110600/22110520/7031e273.jpg?impolicy=resizecrop&ra=fit&rw=297",
+      "https://images.trvl-media.com/lodging/23000000/22120000/22110600/22110520/3bb2d804.jpg?impolicy=resizecrop&ra=fit&rw=297"
+    ],
+    "categorie": [
+      "appartamento"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 22297",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Archinue+Suite+Apartments+Siracusa",
+    "prenotaUrl": "https://www.booking.com/hotel/it/archinue.it.html",
+    "descrizione": "Residence con monolocali, bilocali, trilocali e suite in Corso Umberto I, dotati di cucina e pensati anche per soggiorni più lunghi."
+  },
+  {
+    "posizione": 19,
+    "vetrina": 0,
+    "slug": "airbnb-barone-house-ortigia",
+    "nome": "Ortigia, Confortable Barone House",
+    "immagine": "https://a0.muscache.com/im/pictures/f8b8982d-5d2c-4f88-b9f1-0d431c504641.jpg?im_w=720",
+    "galleria": [
+      "https://a0.muscache.com/im/pictures/cffd6a5c-a678-4aa4-a646-f5b84115bbcd.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/025a60e8-8823-4c56-bc2c-0168e329f718.jpg?im_w=720"
+    ],
+    "categorie": [
+      "appartamento"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tempio+di+Apollo+Ortigia+Siracusa",
+    "prenotaUrl": "https://www.airbnb.com/rooms/534934",
+    "descrizione": "Appartamento Airbnb nel centro di Ortigia, per fino a 4 ospiti, con due camere da letto e affaccio nell’area del Tempio di Apollo."
+  },
+  {
+    "posizione": 20,
+    "vetrina": 0,
+    "slug": "airbnb-ortigia-sea-view-apartment",
+    "nome": "Ortigia Sea View Apartment",
+    "immagine": "https://a0.muscache.com/im/pictures/86c0991d-03a5-43a9-ab42-db2953364c1a.jpg?im_w=720",
+    "galleria": [
+      "https://a0.muscache.com/im/pictures/fffa2833-9519-441d-a4ea-fdd168c7f6d6.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/9a0ca44c-42f3-429c-a07b-963f3047938e.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/865eb1cf-cc2b-4b22-8928-5cab9cfd0724.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/7052e9c6-dfe9-44cc-9f97-82c57fc97965.jpg?im_w=720"
+    ],
+    "categorie": [
+      "appartamento"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Porto+Grande+Ortigia+Siracusa",
+    "prenotaUrl": "https://www.airbnb.com/rooms/14743330",
+    "descrizione": "Ampio appartamento Airbnb in edificio storico affacciato sul porto di Ortigia, con 3 camere da letto e capacità fino a 8 ospiti."
+  },
+  {
+    "posizione": 21,
+    "vetrina": 0,
+    "slug": "airbnb-wonder-flat-ortigia",
+    "nome": "Wonder Flat Ortigia",
+    "immagine": "https://a0.muscache.com/im/pictures/miso/Hosting-15781679/original/8b035ad7-cfbe-4e4e-9e4f-45d724827fae.jpeg?im_w=720",
+    "galleria": [
+      "https://a0.muscache.com/im/pictures/miso/Hosting-15781679/original/1c06d087-c837-446e-969c-a3aeee03ed3a.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/4d2f8c7d-5553-4979-8c15-a108bf42dff3.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-15781679/original/9d45d4d2-ffe2-402d-9df8-6e334bcbc476.jpeg?im_w=720",
+      "https://a0.muscache.com/im/pictures/miso/Hosting-15781679/original/a66cfb86-42b8-47ec-a976-056bc6cfa700.jpeg?im_w=720"
+    ],
+    "categorie": [
+      "appartamento"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tempio+di+Apollo+Ortigia+Siracusa",
+    "prenotaUrl": "https://www.airbnb.com/rooms/15781679",
+    "descrizione": "Elegante appartamento Airbnb nel cuore di Ortigia, per fino a 4 ospiti, vicino al Tempio di Apollo e alle principali vie del centro storico."
+  },
+  {
+    "posizione": 22,
+    "vetrina": 0,
+    "slug": "airbnb-ortigia-ancient-house",
+    "nome": "Ortigia Ancient House",
+    "immagine": "https://a0.muscache.com/im/pictures/2ce30689-d5ae-41a8-ba66-20be3254df84.jpg?im_w=720",
+    "galleria": [
+      "https://a0.muscache.com/im/pictures/474657f3-3c8a-4490-97cb-7ffb00995c78.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/3f46a4e0-cf14-4c37-a778-a7f2f538d2fc.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/048083bd-4a8e-4e2a-8535-bbd6c4205c31.jpg?im_w=720",
+      "https://a0.muscache.com/im/pictures/955bff4a-db1c-4b0c-95de-76c2aee972f6.jpg?im_w=720"
+    ],
+    "categorie": [
+      "appartamento"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ortigia+Siracusa",
+    "prenotaUrl": "https://www.airbnb.com/rooms/35171604",
+    "descrizione": "Casa Airbnb nel centro storico di Ortigia, con muri in pietra e ambienti dal carattere storico; ospita fino a 6 persone in 2 camere da letto."
+  }
+]

@@ -1,0 +1,685 @@
+[
+  {
+    "posizione": 1,
+    "vetrina": 1,
+    "slug": "aretusa-ceramiche-souvenir",
+    "nome": "Aretusa Ceramiche & Souvenir",
+    "immagine": "https://d2aimphvythc7j.cloudfront.net/bundles/datadeo/images/account/1781972583-0-23611600_img_7275-500.jpg",
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "souvenir"
+    ],
+    "orari": "Tutti i giorni 10:00–20:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aretusa+Ceramiche+%26+Souvenir+Via+Capodieci+46+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Negozio di Via Capodieci specializzato in ceramiche siciliane, Teste di Moro, pigne, tessuti e articoli regalo realizzati dalla tradizione artigianale isolana."
+  },
+  {
+    "posizione": 2,
+    "vetrina": 2,
+    "slug": "tazzamore-by-oursoul",
+    "nome": "Tazz’amore by Oursoul",
+    "immagine": "https://cdn-media.italiani.it/site-siracusa/sites/74/2022/02/61feaec28076b-61feaec28076cOursoul-bottega-ricreativa-richiamante-il-valore-delle-piccole-cose-ph-Angela-Strano.jpg-1024x768.jpg",
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "souvenir"
+    ],
+    "orari": "Tutti i giorni 9:00–13:00, 16:00–20:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tazzamore+by+Oursoul+Via+della+Giudecca+37+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Bottega creativa in Via della Giudecca dedicata soprattutto a ceramiche artigianali: tazze, ciotole e piccoli oggetti decorati a mano, ciascuno con un carattere originale."
+  },
+  {
+    "posizione": 3,
+    "vetrina": 3,
+    "slug": "cool-de-sac-ortigia",
+    "nome": "COOL DE SAC – Handmade Clothing & Concept Store",
+    "immagine": "https://aziende.valdinoto.it/wp-content/uploads/sites/19/2021/10/cool-de-sac-store-1.jpg",
+    "galleria": null,
+    "categorie": [
+      "abbigliamento",
+      "artigianato",
+      "souvenir"
+    ],
+    "orari": "Lun e Mer–Dom 10:30–21:00; Mar 9:00–21:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=COOL+DE+SAC+Via+Cavour+25+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Concept store di Via Cavour con abbigliamento handmade, accessori, borse, T-shirt, ceramiche e idee regalo, con una selezione legata allo stile e all’artigianato siciliano."
+  },
+  {
+    "posizione": 4,
+    "vetrina": 4,
+    "slug": "laghetti-ortigia",
+    "nome": "Laghetti Ortigia",
+    "immagine": "https://cdn.prod.website-files.com/64b793df1127b73bc7c16900/67a0b49f8905a739972778bb_67a0b48af3659f0ffee4eaca_Laghetti.jpeg",
+    "galleria": null,
+    "categorie": [
+      "abbigliamento",
+      "artigianato"
+    ],
+    "orari": "Lun–Sab 10:00–21:00; Dom 10:30–16:30",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laghetti+Ortigia+Via+Pompeo+Picherali+10B+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Concept store vicino al Duomo con accessori, gioielli, moda, oggetti per la casa e prodotti di design selezionati tra realtà locali e marchi indipendenti."
+  },
+  {
+    "posizione": 5,
+    "vetrina": 5,
+    "slug": "fratelli-burgio",
+    "nome": "Fratelli Burgio – La Salumeria",
+    "immagine": "https://s3.amazonaws.com/fathom_media/photos/Fratelli-Burgio-Ortigia-Sicily-Erica-Firpo.jpg",
+    "galleria": null,
+    "categorie": [
+      "gastronomia",
+      "mercato"
+    ],
+    "orari": "Lun–Sab 7:00–21:00; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fratelli+Burgio+Piazza+Cesare+Battisti+4+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Storica salumeria del Mercato di Ortigia con salumi, formaggi, conserve, oli, vini e specialità siciliane, oltre a preparazioni da gustare direttamente tra i banchi del mercato."
+  },
+  {
+    "posizione": 6,
+    "vetrina": 6,
+    "slug": "caseificio-borderi",
+    "nome": "Caseificio Borderi",
+    "immagine": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b5/20/bb/caption.jpg?h=1100&s=1&w=1100",
+    "galleria": null,
+    "categorie": [
+      "gastronomia",
+      "mercato"
+    ],
+    "orari": "Lun–Sab 9:00–16:00; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Caseificio+Borderi+Via+Emmanuele+de+Benedictis+6+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Una delle attività più conosciute del Mercato di Ortigia, celebre per formaggi, salumi e grandi panini preparati al momento con numerosi ingredienti siciliani."
+  },
+  {
+    "posizione": 7,
+    "vetrina": 7,
+    "slug": "pasticceria-artale",
+    "nome": "Pasticceria Artale",
+    "immagine": "https://s3-media0.fl.yelpcdn.com/bphoto/xxATz1hwXmvLK0G5bcu9Xw/l.jpg",
+    "galleria": null,
+    "categorie": [
+      "gastronomia"
+    ],
+    "orari": "Lun–Mer e Ven–Dom 7:30–16:00; Gio chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pasticceria+Artale+Via+Saverio+Landolina+32+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Pasticceria e bar storico nel cuore di Ortigia, conosciuto per cannoli, granite, paste di mandorla, dolci siciliani e proposte di gastronomia tradizionale."
+  },
+  {
+    "posizione": 8,
+    "vetrina": 8,
+    "slug": "materiarte-ortigia",
+    "nome": "Art Gallery Materiarte Ortigia",
+    "immagine": "https://images.mindtrip.ai/attractions/5aec/ca7c/7797/2c5d/b927/776d/de08/e51c",
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "souvenir"
+    ],
+    "orari": "Tutti i giorni 10:00–20:30",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Materiarte+Ortigia+Via+Roma+44+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Galleria d’arte e spazio culturale in Via Roma, con opere contemporanee, pittura e scultura: una tappa adatta anche a chi cerca un ricordo artistico diverso dal souvenir classico."
+  },
+  {
+    "posizione": 9,
+    "vetrina": 9,
+    "slug": "ortigia-profumi",
+    "nome": "Ortigia Profumi",
+    "immagine": "https://skysurf.travel/blog/wp-content/uploads/2019/06/pic18a.jpg",
+    "galleria": null,
+    "categorie": [
+      "souvenir"
+    ],
+    "orari": "Tutti i giorni 10:00–23:59",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ortigia+Profumi+Via+Roma+21+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Profumeria in Via Roma legata all’immaginario mediterraneo di Ortigia, con fragranze, saponi e prodotti profumati ispirati agli agrumi, ai fiori e ai profumi della Sicilia."
+  },
+  {
+    "posizione": 10,
+    "vetrina": 10,
+    "slug": "ecru-mostly-vintage",
+    "nome": "Écru – mostly vintage",
+    "immagine": "https://cdn.prod.website-files.com/64b793df1127b73bc7c16900/67a0b49f8905a739972778af_67a0b46f5caa3430621efd0d_Ecru.jpeg",
+    "galleria": null,
+    "categorie": [
+      "abbigliamento"
+    ],
+    "orari": "Lun–Sab 10:30–14:00, 16:30–20:00; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ecru+Mostly+Vintage+Via+Consiglio+Reginale+30+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Boutique vintage in Via Consiglio Reginale con una selezione curata di abbigliamento e pezzi ricercati, pensata per chi preferisce acquisti originali e lontani dalle catene tradizionali."
+  },
+  {
+    "posizione": 11,
+    "vetrina": null,
+    "slug": "chiodo-showroom-con-cucina",
+    "nome": "Chiodo – Showroom con Cucina",
+    "immagine": "https://i0.wp.com/www.lifebeyondthewire.com/wp-content/uploads/2023/01/Chiodo-Showroom-Court-Yard-Ortigia-768x1024.webp?resize=768%2C1024&ssl=1",
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "gastronomia"
+    ],
+    "orari": "Lun–Sab 9:00–16:30, 18:30–00:00; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiodo+Showroom+Via+Roma+15+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Uno spazio particolare di Via Roma che unisce showroom, recupero creativo, artigianato e cucina siciliana, in un ambiente costruito con oggetti, materiali e atmosfere della tradizione."
+  },
+  {
+    "posizione": 13,
+    "vetrina": null,
+    "slug": "circo-fortuna",
+    "nome": "Circo Fortuna",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "souvenir"
+    ],
+    "orari": "Mar–Dom 10:30–14:00, 15:00–18:30; Lun chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Circo+Fortuna+Via+Capodieci+42+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Storico atelier creativo di Ortigia attivo dal 1992, con ceramiche, stampe, cartoline, t-shirt e piccoli oggetti ispirati alla Sicilia."
+  },
+  {
+    "posizione": 14,
+    "vetrina": null,
+    "slug": "bijouets-shop-ortigia",
+    "nome": ".bijouets Shop Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "souvenir"
+    ],
+    "orari": "Orari variabili — verificare su Google Maps",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=.bijouets+Shop+Ortigia+Via+Saverio+Landolina+12+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Boutique di gioielli e accessori contemporanei realizzati anche attraverso tecnologie di stampa 3D e materiali ricercati."
+  },
+  {
+    "posizione": 15,
+    "vetrina": null,
+    "slug": "good-vibes-ortigia",
+    "nome": "Good Vibes Ortigia",
+    "immagine": "https://static.where-e.com/Italy/Good-Vibes-Ortigia_8c89bda30ec80be8cd3c15b13ddc3f0b.jpg",
+    "galleria": null,
+    "categorie": [
+      "abbigliamento",
+      "souvenir"
+    ],
+    "orari": "Tutti i giorni 10:00–23:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Good+Vibes+Ortigia+Via+Roma+49+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Negozio nel cuore di Ortigia dedicato ad accessori moda, bijoux, borse e idee regalo dal carattere giovane e contemporaneo."
+  },
+  {
+    "posizione": 16,
+    "vetrina": null,
+    "slug": "ceramiche-artigianali-dolu",
+    "nome": "Ceramiche Artigianali Dolù",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "souvenir"
+    ],
+    "orari": "Lun–Mar e Gio–Sab 10:30–13:00, 15:30–19:30; Mer 15:30–19:30; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ceramiche+Artigianali+Dolu+Via+Larga+7+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Piccola bottega di Via Larga specializzata in ceramiche artigianali decorate, pezzi ornamentali e oggetti ispirati alla tradizione siciliana."
+  },
+  {
+    "posizione": 17,
+    "vetrina": null,
+    "slug": "emporio-ortigia",
+    "nome": "Emporio Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "souvenir"
+    ],
+    "orari": "Mar–Dom 17:00–21:00; Lun chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Emporio+Ortigia+Via+delle+Vergini+5+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Spazio dedicato all’artigianato e alle creazioni indipendenti in una delle vie più caratteristiche del centro storico di Ortigia."
+  },
+  {
+    "posizione": 18,
+    "vetrina": null,
+    "slug": "architoys-souvenir-gadget",
+    "nome": "Architoys – Souvenir e gadget",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "souvenir"
+    ],
+    "orari": "Lun–Sab 10:00–20:00; Dom 10:00–13:00, 16:00–20:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Architoys+Souvenir+Gadget+Via+Roma+50+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Negozio di Via Roma dedicato a souvenir, gadget e piccoli ricordi di viaggio legati a Siracusa, Ortigia e alla Sicilia."
+  },
+  {
+    "posizione": 19,
+    "vetrina": null,
+    "slug": "fico-original-design-ortigia",
+    "nome": "Fico Original Design Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "abbigliamento",
+      "souvenir"
+    ],
+    "orari": "Tutti i giorni 10:00–20:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fico+Original+Design+Ortigia+Via+Roma+36+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Concept store dedicato al design siciliano, con accessori e creazioni di artisti e designer locali selezionati nel segno del Made in Sicily."
+  },
+  {
+    "posizione": 20,
+    "vetrina": null,
+    "slug": "studio-darte-ortigia",
+    "nome": "Studio d'Arte Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "souvenir"
+    ],
+    "orari": "Lun–Sab 9:30–20:00; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio+d%27Arte+Ortigia+Via+della+Amalfitania+5+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Studio e galleria nel centro storico dove trovare ceramiche, opere decorative e creazioni artistiche legate al territorio siciliano."
+  },
+  {
+    "posizione": 21,
+    "vetrina": null,
+    "slug": "baco-ortigia",
+    "nome": "BACO Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato"
+    ],
+    "orari": "Tutti i giorni 11:00–20:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BACO+Ortigia+Via+Roma+101+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Laboratorio-boutique di gioielli artigianali realizzati con argento 925, bronzo e pietre naturali, con lavorazioni dal gusto contemporaneo."
+  },
+  {
+    "posizione": 22,
+    "vetrina": null,
+    "slug": "vestopazzo-ortigia",
+    "nome": "Vestopazzo Ortigia",
+    "immagine": "https://stores.vestopazzo.it/upload/store/big/add/vestopazzoGENERATIONIT09/0.jpg",
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "abbigliamento"
+    ],
+    "orari": "Mar–Dom 10:00–20:00; Lun chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vestopazzo+Ortigia+Via+Roma+16+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Boutique di bijoux e accessori caratterizzata soprattutto da collezioni in alluminio riciclato e lavorazioni dal design riconoscibile."
+  },
+  {
+    "posizione": 23,
+    "vetrina": null,
+    "slug": "gioielleria-massimo-izzo",
+    "nome": "Gioielleria Massimo Izzo",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato"
+    ],
+    "orari": "Lun–Sab 9:00–20:00; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Massimo+Izzo+Jeweler+Piazza+Archimede+25+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Atelier di alta gioielleria in Piazza Archimede, noto per creazioni ispirate al mare, alla storia di Siracusa e all’immaginario mediterraneo."
+  },
+  {
+    "posizione": 24,
+    "vetrina": null,
+    "slug": "serto-gioielli",
+    "nome": "Serto Gioielli",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato"
+    ],
+    "orari": "Tutti i giorni 10:00–19:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Serto+Gioielli+Via+Giovanni+Torres+15+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Laboratorio di gioielleria artigianale a Ortigia con pezzi in ottone, bronzo e argento, forme geometriche e superfici materiche."
+  },
+  {
+    "posizione": 25,
+    "vetrina": null,
+    "slug": "aretuseo-64",
+    "nome": "Aretuseo 64",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "souvenir"
+    ],
+    "orari": "Orari variabili — verificare su Google Maps",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aretuseo+64+Via+Roma+35+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Boutique di bijoux e oggetti ricercati con lavorazioni in ceramica, corallo, cammei, micromosaico, madreperla e altri materiali decorativi."
+  },
+  {
+    "posizione": 26,
+    "vetrina": null,
+    "slug": "libri-da-scrivere",
+    "nome": "Libri da scrivere",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "souvenir"
+    ],
+    "orari": "Mar–Sab 10:00–13:30, 16:30–19:00; Dom–Lun chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libri+da+scrivere+Via+della+Giudecca+38+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Piccola libreria indipendente nel quartiere della Giudecca, una tappa interessante per chi cerca libri e proposte lontane dai grandi circuiti."
+  },
+  {
+    "posizione": 27,
+    "vetrina": null,
+    "slug": "libreria-bafigghia-ubik-ortigia",
+    "nome": "Libreria Bafigghia Ubik Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "souvenir"
+    ],
+    "orari": "Tutti i giorni 10:00–13:30, 17:30–23:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libreria+Bafigghia+Ubik+Ortigia+Corso+Giacomo+Matteotti+38+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Libreria Ubik nel cuore di Ortigia pensata anche come spazio culturale, con narrativa, saggistica e appuntamenti dedicati ai lettori."
+  },
+  {
+    "posizione": 28,
+    "vetrina": null,
+    "slug": "casa-del-libro",
+    "nome": "Casa del Libro – di Marilia Di Giovanni",
+    "immagine": "https://cdn-media.italiani.it/site-siracusa/sites/74/2022/01/61eac8ba98921-61eac8ba98922Casa-del-Libro-Rosario-Mascali-istituzione-culturale-della-citta-ph-Angela-Strano.jpg.jpg",
+    "galleria": null,
+    "categorie": [
+      "souvenir"
+    ],
+    "orari": "Lun–Sab 9:30–13:30, 16:00–20:00; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa+del+Libro+Marilia+Di+Giovanni+Via+della+Maestranza+20+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Storica libreria siracusana nata nel Novecento e divenuta nel tempo un riferimento culturale della città, oggi nel cuore di Ortigia."
+  },
+  {
+    "posizione": 29,
+    "vetrina": null,
+    "slug": "libreria-zaratan",
+    "nome": "Libreria Zaratan",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "souvenir"
+    ],
+    "orari": "Lun–Sab 9:30–13:30, 16:30–20:30; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libreria+Zaratan+Corso+Umberto+I+106+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Libreria indipendente con libri, fumetti, riviste e una selezione di vinili, poster e cartoline, compresi titoli legati alla Sicilia."
+  },
+  {
+    "posizione": 30,
+    "vetrina": null,
+    "slug": "gibi-boutique-ortigia",
+    "nome": "Gibì Boutique – Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "abbigliamento"
+    ],
+    "orari": "Lun 17:00–20:30; Mar–Sab 10:30–20:30; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gibi+Boutique+Ortigia+Via+della+Maestranza+69+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Boutique di abbigliamento uomo lungo Via della Maestranza, nel cuore commerciale del centro storico di Ortigia."
+  },
+  {
+    "posizione": 31,
+    "vetrina": null,
+    "slug": "il-piacere-della-pelle",
+    "nome": "Il Piacere della pelle",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "abbigliamento"
+    ],
+    "orari": "Lun–Sab 10:00–19:30; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Il+Piacere+della+pelle+Via+Dione+36+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Negozio di pelletteria in Via Dione con borse, accessori e articoli in pelle, nel pieno centro storico di Ortigia."
+  },
+  {
+    "posizione": 32,
+    "vetrina": null,
+    "slug": "muddica-the-bags",
+    "nome": "Muddica The Bags",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "artigianato",
+      "abbigliamento"
+    ],
+    "orari": "Lun–Sab 10:00–21:00; Dom 16:00–22:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Muddica+The+Bags+Via+Roma+59+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Boutique specializzata in borse, cinture e accessori di pelletteria lungo Via Roma, una delle principali vie dello shopping di Ortigia."
+  },
+  {
+    "posizione": 33,
+    "vetrina": null,
+    "slug": "seconde-vie-ortigia",
+    "nome": "Seconde Vie | Usato di Lusso | Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "abbigliamento"
+    ],
+    "orari": "Lun 16:30–20:30; Mar–Sab 10:00–13:00, 16:30–20:30; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seconde+Vie+Usato+di+Lusso+Via+Roma+84+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Negozio dedicato al second hand di lusso e al vintage, con capi e accessori firmati e una particolare attenzione alle borse iconiche."
+  },
+  {
+    "posizione": 34,
+    "vetrina": null,
+    "slug": "depot-vintage-shop-ortigia",
+    "nome": "Depot Vintage Shop – Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "abbigliamento",
+      "souvenir"
+    ],
+    "orari": "Lun–Ven 10:00–13:00; Sab 10:30–13:00; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Depot+Vintage+Shop+Ortigia+Via+Savoia+54+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Negozio vintage di Via Savoia con abbigliamento, accessori, bijoux e piccoli pezzi selezionati per chi cerca qualcosa di diverso dal souvenir classico."
+  },
+  {
+    "posizione": 35,
+    "vetrina": null,
+    "slug": "il-sandalo-caprese-ortigia",
+    "nome": "Il Sandalo Caprese – Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "abbigliamento"
+    ],
+    "orari": "Tutti i giorni 9:30–22:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Il+Sandalo+Caprese+Ortigia+Via+Roma+30+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Negozio di calzature in Via Roma specializzato nel sandalo mediterraneo e in modelli estivi adatti allo shopping durante una passeggiata in Ortigia."
+  },
+  {
+    "posizione": 36,
+    "vetrina": null,
+    "slug": "full-size-run",
+    "nome": "Full Size Run",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "abbigliamento"
+    ],
+    "orari": "Lun 16:00–21:00; Mar, Gio–Dom 10:00–21:00; Mer 10:00–20:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Full+Size+Run+Largo+XXV+Luglio+12+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Sneaker store vicino all’ingresso di Ortigia, dedicato a calzature sportive e streetwear per chi cerca modelli contemporanei durante la visita in città."
+  },
+  {
+    "posizione": 37,
+    "vetrina": null,
+    "slug": "level-store-siracusa",
+    "nome": "Level Store Siracusa",
+    "immagine": "https://2beinstore.com/img/shops/a0FSdU1iTk81clhvd1pnWUhjWXZMMllScnBDN3RhbUpNMkVXMUovenY0bmZwaU1y/facade/shop-61-level-store-provincia-di-siracusa-italy-facade.jpg",
+    "galleria": null,
+    "categorie": [
+      "abbigliamento"
+    ],
+    "orari": "Lun 9:30–13:00, 16:30–20:30; Mar–Sab 9:30–13:30, 16:30–20:30; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Level+Store+Siracusa+Corso+Gelone+37A",
+    "prenotaUrl": null,
+    "descrizione": "Boutique multibrand siracusana nata nel 2018, con una selezione di abbigliamento e accessori che spazia dal classico allo sportswear."
+  },
+  {
+    "posizione": 38,
+    "vetrina": null,
+    "slug": "syrtaria-arte-del-cucito",
+    "nome": "Syrtaria – l'Arte del Cucito",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "abbigliamento",
+      "artigianato"
+    ],
+    "orari": "Lun e Sab 10:00–13:00; Mar–Ven 10:00–13:00, 17:00–20:30",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Syrtaria+Arte+del+Cucito+Via+Savoia+5+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Atelier di abbigliamento e accessori Made in Italy con lavorazioni sartoriali e creazioni legate all’arte del cucito nel centro di Ortigia."
+  },
+  {
+    "posizione": 39,
+    "vetrina": null,
+    "slug": "tami-concept-store",
+    "nome": "TAMI' Concept Store",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "abbigliamento",
+      "souvenir",
+      "gastronomia"
+    ],
+    "orari": "Orari variabili, generalmente 10:00–21:30/22:00 — verificare su Google Maps",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TAMI+Concept+Store+Siracusa+Via+Cavour",
+    "prenotaUrl": null,
+    "descrizione": "Concept store di Ortigia con una selezione trasversale di design, libri, accessori, abbigliamento e prodotti siciliani scelti con taglio contemporaneo."
+  },
+  {
+    "posizione": 40,
+    "vetrina": null,
+    "slug": "profumeria-costa",
+    "nome": "Profumeria Costa",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "souvenir"
+    ],
+    "orari": "Lun 15:00–20:00; Mar–Sab 11:30–20:00; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Profumeria+Costa+Via+Roma+17+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Storica profumeria di Via Roma attiva dal 1889, specializzata in profumeria artistica e di nicchia e considerata una delle attività storiche di Ortigia."
+  },
+  {
+    "posizione": 41,
+    "vetrina": null,
+    "slug": "a-putia-delle-cose-buone",
+    "nome": "Shop – 'A Putia delle cose buone",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "gastronomia",
+      "souvenir"
+    ],
+    "orari": "Tutti i giorni 9:00–22:00",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=A+Putia+delle+cose+buone+Via+Roma+12+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Negozio di prodotti alimentari gourmet in Via Roma, utile per acquistare specialità siciliane e confezioni da portare a casa come ricordo gastronomico."
+  },
+  {
+    "posizione": 42,
+    "vetrina": null,
+    "slug": "zumariu-borderi",
+    "nome": "Prodotti Tipici Siciliani Zumariu Borderi",
+    "immagine": null,
+    "galleria": null,
+    "categorie": [
+      "gastronomia",
+      "mercato"
+    ],
+    "orari": "Lun–Sab 8:00–14:00; Dom chiuso",
+    "telefono": null,
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prodotti+Tipici+Siciliani+Zumariu+Borderi+Via+Emmanuele+de+Benedictis+37+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Bottega nel Mercato di Ortigia con prodotti tipici siciliani, tra formaggi, salumi, conserve, sottoli, creme e pesti della tradizione locale."
+  }
+]

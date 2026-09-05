@@ -1,0 +1,629 @@
+[
+  {
+    "posizione": 1,
+    "vetrina": 1,
+    "slug": "corrado-escursioni-ortigia-grotte",
+    "nome": "CORRADO ESCURSIONI – ORTIGIA E GROTTE MARINE",
+    "immagine": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/b1/3b/c5/caves.jpg?h=900&s=1&w=1200",
+    "galleria": null,
+    "categorie": [
+      "mare",
+      "tour"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 327 260 8645",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Corrado+Escursioni+Ponte+Santa+Lucia+Siracusa",
+    "prenotaUrl": "https://corradoescurioni.it/",
+    "descrizione": "Tour in barca attorno a Ortigia, grotte marine, sosta bagno e fondale visibile con sistema Acquavision."
+  },
+  {
+    "posizione": 2,
+    "vetrina": 0,
+    "slug": "museo-delle-illusioni-siracusa",
+    "nome": "MUSEO DELLE ILLUSIONI",
+    "immagine": "https://cdn.travelersuniverse.com/media/museo-delle-illusioni-siracusa-t767787-6.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "spettacolo"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 327 197 8438",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+delle+Illusioni+Siracusa",
+    "prenotaUrl": "https://www.getyourguide.com/syracuse-l1115/museo-delle-illusioni-siracusa--t767787/",
+    "descrizione": "Percorso interattivo tra illusioni ottiche, prospettive sorprendenti e installazioni pensate per giocare con la percezione."
+  },
+  {
+    "posizione": 3,
+    "vetrina": 0,
+    "slug": "siramuse-museo-immersivo",
+    "nome": "SIRAMUSE – MUSEO IMMERSIVO",
+    "immagine": "https://cdn.finestresullarte.info/rivista/immagini/2025/fn/siramuse-allestimenti-7.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "spettacolo"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 091 848 8813",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siramuse+Via+Santa+Lucia+alla+Badia+4+Siracusa",
+    "prenotaUrl": "https://siramuse.it/biglietti/",
+    "descrizione": "Museo multimediale di Ortigia con installazioni immersive dedicate a personaggi, storia, arte e identità di Siracusa."
+  },
+  {
+    "posizione": 4,
+    "vetrina": 0,
+    "slug": "museo-archimede-leonardo",
+    "nome": "MUSEO ARCHIMEDE E LEONARDO",
+    "immagine": "https://coinventmediastorage.blob.core.windows.net/media-storage-container/highlight_ChIJdTb4uR_MExMR78Kvj9Xlwa8_0.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 1855824",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+Archimede+e+Leonardo+Via+Vincenzo+Mirabella+31+Siracusa",
+    "prenotaUrl": "https://www.archimededisiracusa.it/en/tickets-and-opening-times/",
+    "descrizione": "Macchine, invenzioni e modelli interattivi per scoprire il genio di Archimede e Leonardo da Vinci."
+  },
+  {
+    "posizione": 5,
+    "vetrina": 0,
+    "slug": "tecnoparco-archimede",
+    "nome": "TECNOPARCO ARCHIMEDE",
+    "immagine": "https://www.siciliadagiocare.it/wp-content/uploads/2020/08/Tecnoparco-Archimede01-1.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "natura"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 758807",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tecnoparco+Archimede+Via+Giuseppe+Agnello+26+Siracusa",
+    "prenotaUrl": "https://www.tecnoparco-archimede.com/shop/",
+    "descrizione": "Parco all'aperto con ricostruzioni funzionanti delle macchine attribuite ad Archimede e spiegazioni divulgative."
+  },
+  {
+    "posizione": 6,
+    "vetrina": 0,
+    "slug": "teatro-dei-pupi-siracusa",
+    "nome": "SPETTACOLO AL TEATRO DEI PUPI",
+    "immagine": "https://cdn.infooggi.it/images/uploads/public/ipc/x4w/3kf/ipcx4w3kf6qw3unzjkjqvw.jpg/webp",
+    "galleria": null,
+    "categorie": [
+      "spettacolo",
+      "cultura"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 465540",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro+dei+Pupi+Via+della+Giudecca+22+Siracusa",
+    "prenotaUrl": "https://www.teatrodeipupisiracusa.it/calendario-spettacoli/",
+    "descrizione": "Opera dei Pupi siciliana dal vivo nel cuore della Giudecca, con spettacoli della tradizione cavalleresca."
+  },
+  {
+    "posizione": 7,
+    "vetrina": 0,
+    "slug": "laboratorio-pupi-siciliani",
+    "nome": "LABORATORIO DEI PUPI SICILIANI",
+    "immagine": "https://www.secretsiracusa.it/wp-content/uploads/2025/06/10-tra-legno-e-magia-larte-dei-pupi.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "spettacolo"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 1561472",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro+dei+Pupi+Siracusa+Giudecca",
+    "prenotaUrl": "https://www.secretsiracusa.it/tra-legno-e-magia-larte-dei-pupi-siciliani-in-laboratorio-tradizionale/",
+    "descrizione": "Esperienza in laboratorio con un maestro puparo per conoscere la tradizione e realizzare il proprio piccolo pupo."
+  },
+  {
+    "posizione": 8,
+    "vetrina": 0,
+    "slug": "misfatto-a-palazzo",
+    "nome": "MISFATTO A PALAZZO",
+    "immagine": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/3b/89/77/caption.jpg?h=1200&s=1&w=1200",
+    "galleria": null,
+    "categorie": [
+      "spettacolo",
+      "cultura"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 376 184 4378",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Misfatto+a+Palazzo+Via+Saverio+Landolina+5+Siracusa",
+    "prenotaUrl": "https://www.misfattoapalazzo.com/",
+    "descrizione": "Teatro interattivo ed escape experience dentro un palazzo storico: il pubblico entra direttamente nel mistero."
+  },
+  {
+    "posizione": 9,
+    "vetrina": 0,
+    "slug": "caravaggio-teatro-greco-vr",
+    "nome": "CARAVAGGIO + TEATRO GRECO IN VR",
+    "immagine": "https://www.secretsiracusa.it/wp-content/uploads/2025/07/VR_teatro_caravaggio_combo_web-scaled.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "spettacolo"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 1561472",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Vermexio+Piazza+Duomo+4+Siracusa",
+    "prenotaUrl": "https://www.secretsiracusa.it/biglietti/immersive-experience/",
+    "descrizione": "Due esperienze VR a Palazzo Vermexio: la vita di Caravaggio e la ricostruzione dell'antico Teatro Greco."
+  },
+  {
+    "posizione": 10,
+    "vetrina": 0,
+    "slug": "catacomba-san-giovanni-vr",
+    "nome": "CATACOMBA DI SAN GIOVANNI + VR",
+    "immagine": "https://cdn.getyourguide.com/image/format%3Dauto%2Cfit%3Dcontain%2Cgravity%3Dauto%2Cquality%3D60%2Cwidth%3D1440%2Cheight%3D650%2Cdpr%3D1/tour_img/989303884c6f3da3f20f7ff1a1dbde16963f9b0eda0baed06186206745f35b0e.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "tour",
+      "spettacolo"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 64694",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Catacomba+di+San+Giovanni+Siracusa",
+    "prenotaUrl": "https://www.secretsiracusa.it/biglietti/biglietti-catacomba-di-san-giovanni/",
+    "descrizione": "Visita guidata nelle grandi catacombe paleocristiane di Siracusa con esperienza di realtà virtuale inclusa."
+  },
+  {
+    "posizione": 11,
+    "vetrina": 0,
+    "slug": "secreta-palatii",
+    "nome": "SECRETA PALATII",
+    "immagine": "https://www.secretsiracusa.it/wp-content/uploads/2025/04/5-secreta-palatii-cappella_Sveva-siracusa-biglietti-1024x768.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "tour"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 64694",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Secreta+Palatii+Piazza+Duomo+5+Siracusa",
+    "prenotaUrl": "https://www.secretsiracusa.it/biglietti/",
+    "descrizione": "Percorso negli ambienti nascosti del Palazzo Arcivescovile tra Cappella Sveva, museo, biblioteca e antico carcere."
+  },
+  {
+    "posizione": 12,
+    "vetrina": 0,
+    "slug": "catacomba-santa-lucia-visita-guidata",
+    "nome": "CATACOMBA DI SANTA LUCIA – VISITA GUIDATA",
+    "immagine": "https://cdn.getyourguide.com/image/format%3Dauto%2Cfit%3Dcontain%2Cgravity%3Dauto%2Cquality%3D60%2Cwidth%3D1440%2Cheight%3D650%2Cdpr%3D1/tour_img/8503d847b4987ca00cf882229711fa3b0cc4a74ee4cb4ed74a5f25d94d9a33fc.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "tour"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 64694",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Catacomba+di+Santa+Lucia+Piazza+Santa+Lucia+Siracusa",
+    "prenotaUrl": "https://www.secretsiracusa.it/biglietti/biglietti-catacomba-di-santa-lucia/",
+    "descrizione": "Visita guidata nel più antico cimitero cristiano siracusano, tra ipogei, affreschi e memoria di Santa Lucia."
+  },
+  {
+    "posizione": 13,
+    "vetrina": 0,
+    "slug": "inda-spettacoli-teatro-greco",
+    "nome": "SPETTACOLI AL TEATRO GRECO – INDA",
+    "immagine": "https://assets.gds.it/2024/07/teatro-inda-800x800.jpg",
+    "galleria": null,
+    "categorie": [
+      "spettacolo",
+      "cultura"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 487248",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teatro+Greco+di+Siracusa",
+    "prenotaUrl": "https://www.indafondazione.org/biglietteria/",
+    "descrizione": "Le rappresentazioni classiche e gli eventi INDA nel Teatro Greco, secondo il calendario stagionale della Fondazione."
+  },
+  {
+    "posizione": 14,
+    "vetrina": 0,
+    "slug": "orestea-atto-secondo-inda",
+    "nome": "ORESTEA ATTO SECONDO – MOSTRA INTERATTIVA",
+    "immagine": "https://www.indafondazione.org/wp-content/uploads/2024/05/orestea-atto-secondo.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "spettacolo"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 487248",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo+Greco+Corso+Matteotti+29+Siracusa",
+    "prenotaUrl": "https://www.indafondazione.org/mostra-interattiva-orestea-atto-secondo/",
+    "descrizione": "Mostra permanente INDA che unisce archivio storico, intelligenza artificiale, realtà aumentata e realtà virtuale."
+  },
+  {
+    "posizione": 15,
+    "vetrina": 0,
+    "slug": "laboratorio-carta-papiro",
+    "nome": "LABORATORIO DELLA CARTA DI PAPIRO",
+    "immagine": "https://4.bp.blogspot.com/-avhmXdSXNNw/WHX-DoOAL6I/AAAAAAAAA-E/EoeJPzmyc6kbDBa5CNi1SEW1oMBxBp20ACLcB/s1600/DSCN3863_R.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 22100",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo+del+Papiro+Via+Nizza+14+Siracusa",
+    "prenotaUrl": "https://museodelpapiro.it/didattica/",
+    "descrizione": "Attività didattica per scoprire la lavorazione del papiro e sperimentare la produzione della carta secondo la tradizione."
+  },
+  {
+    "posizione": 16,
+    "vetrina": 0,
+    "slug": "miqwe-bagno-ebraico",
+    "nome": "MIQWE – BAGNO EBRAICO DI ORTIGIA",
+    "immagine": "https://www.unescosiracusapantalica.com/wp-content/uploads/2021/07/giudecca_quartiere_ebraico_otigia_3.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "tour"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 22255",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miqwe+Via+Alagona+52+Siracusa",
+    "prenotaUrl": "https://www.algila.it/post/miqwe-siracusa",
+    "descrizione": "Discesa guidata nell'antico bagno rituale ebraico sotterraneo della Giudecca, uno dei luoghi più particolari di Ortigia."
+  },
+  {
+    "posizione": 17,
+    "vetrina": 0,
+    "slug": "cook-in-siracusa-market-cooking-class",
+    "nome": "COOK IN SIRACUSA – MARKET & COOKING CLASS",
+    "immagine": "https://static.wixstatic.com/media/0281ed_a585687850f94efda217e66a6b20faee~mv2.jpg/v1/fill/w_794%2Ch_598%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_auto/0281ed_a585687850f94efda217e66a6b20faee~mv2.jpg",
+    "galleria": null,
+    "categorie": [
+      "mercato",
+      "cultura"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 348 8712329",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cook+In+Siracusa+Ronco+Scivolone+1+Siracusa",
+    "prenotaUrl": "https://www.cookinsiracusa.com/events-1",
+    "descrizione": "Tour del mercato, spesa insieme e lezione pratica di cucina siciliana con pranzo, vino e prodotti stagionali."
+  },
+  {
+    "posizione": 18,
+    "vetrina": 0,
+    "slug": "taste-of-ortigia-street-food",
+    "nome": "TASTE OF ORTIGIA – STREET FOOD TOUR",
+    "immagine": "https://cdn.getyourguide.com/image/format%3Dauto%2Cfit%3Dcontain%2Cgravity%3Dauto%2Cquality%3D60%2Cwidth%3D1440%2Cheight%3D650%2Cdpr%3D1/tour_img/4a76a391b1c70eb63840b8a42077530e4edef9d84e9d0caa805b689dab6ccc50.jpg",
+    "galleria": null,
+    "categorie": [
+      "mercato",
+      "tour",
+      "cultura"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+di+Ortigia+Siracusa",
+    "prenotaUrl": "https://www.tasteofortigia.com/",
+    "descrizione": "Passeggiata gastronomica guidata tra mercato e centro storico con diverse soste dedicate ai sapori tipici siracusani."
+  },
+  {
+    "posizione": 19,
+    "vetrina": 0,
+    "slug": "sapori-di-sicilia-mercato-tavola",
+    "nome": "SAPORI DI SICILIA – DAL MERCATO ALLA TAVOLA",
+    "immagine": "https://www.secretsiracusa.it/wp-content/uploads/2025/06/1-Sapori-di-Sicilia.jpg",
+    "galleria": null,
+    "categorie": [
+      "mercato",
+      "tour",
+      "cultura"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 1561472",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mercato+di+Ortigia+Siracusa",
+    "prenotaUrl": "https://www.secretsiracusa.it/sapori-di-sicilia-dal-mercato-alla-tavola/",
+    "descrizione": "Esperienza gastronomica su prenotazione tra mercato, prodotti locali, tradizioni siciliane e degustazione a tavola."
+  },
+  {
+    "posizione": 20,
+    "vetrina": 0,
+    "slug": "soap-experience-olive-oil-tasting",
+    "nome": "SOAP EXPERIENCE & OLIVE OIL TASTING",
+    "immagine": "https://www.secretsiracusa.it/wp-content/uploads/2025/05/2-Soap-experience-and-olive-oil-tasting.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "mercato",
+      "natura"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 1561472",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siracusa+Sicilia",
+    "prenotaUrl": "https://www.secretsiracusa.it/soap-experience-olive-tasting/",
+    "descrizione": "Visita al frantoio, degustazione di olio e prodotti tipici, pranzo e laboratorio pratico di sapone all'olio d'oliva."
+  },
+  {
+    "posizione": 21,
+    "vetrina": 0,
+    "slug": "siraku-crystal-boat",
+    "nome": "SIRAKÙ – CRYSTAL BOAT",
+    "immagine": "https://mediaim.expedia.com/localexpert/47684046/3c1f3290-b754-48df-a78c-823012bba21e.jpg",
+    "galleria": null,
+    "categorie": [
+      "mare",
+      "tour",
+      "natura"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 351 3930969",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siraku+Sea+Experience+Via+Senatore+Gaetano+Moscuzza+2+Siracusa",
+    "prenotaUrl": "https://www.siraku.it/crystal-boat/",
+    "descrizione": "Tour sulla barca trasparente per osservare direttamente il fondale marino di Siracusa senza entrare in acqua."
+  },
+  {
+    "posizione": 22,
+    "vetrina": 0,
+    "slug": "dolci-escursioni-ortigia-grotte",
+    "nome": "DOLCI ESCURSIONI – ORTIGIA E GROTTE",
+    "immagine": "https://checkyeti.imgix.net/images/prod/products/22205/boat-trip-along-ortigia-and-its-sea-caves-dolci-escursioni-ortigia-14",
+    "galleria": null,
+    "categorie": [
+      "mare",
+      "tour"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 342 8311333",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolci+Escursioni+Foro+Vittorio+Emanuele+II+Siracusa",
+    "prenotaUrl": "https://www.escursioniinbarcasiracusa.it/",
+    "descrizione": "Escursioni in barca attorno a Ortigia e alle grotte marine, con diverse formule e durate disponibili."
+  },
+  {
+    "posizione": 23,
+    "vetrina": 0,
+    "slug": "papyrus-excursions-boat",
+    "nome": "PAPYRUS EXCURSIONS – TOUR IN BARCA",
+    "immagine": "https://cdn.holidoit.com/media/experiences/2075/images/full/giro-in-barca-a-ortigia-da-siracusa-67337.webp",
+    "galleria": null,
+    "categorie": [
+      "mare",
+      "tour"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 338 7212142",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Papyrus+Excursions+Largo+Porta+Marina+2+Siracusa",
+    "prenotaUrl": "https://www.papyrusescursioniortigia.com/",
+    "descrizione": "Navigazione lungo Ortigia e la costa siracusana con itinerari storici, naturalistici e uscite personalizzabili."
+  },
+  {
+    "posizione": 24,
+    "vetrina": 0,
+    "slug": "capitan-mirko-ortigia-grotte",
+    "nome": "CAPITAN MIRKO – ORTIGIA E GROTTE MARINE",
+    "immagine": "https://checkyeti.imgix.net/images/optimized/capitan-mirko-hero.jpg?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-y=0.5&q=45",
+    "galleria": null,
+    "categorie": [
+      "mare",
+      "tour"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 327 4680749",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siracusa+in+Barca+Capitan+Mirko+Riva+della+Posta+Siracusa",
+    "prenotaUrl": "https://www.siracusainbarca.it/",
+    "descrizione": "Escursione in barca tra costa di Ortigia, insenature e grotte marine, con possibilità di sosta bagno."
+  },
+  {
+    "posizione": 25,
+    "vetrina": 0,
+    "slug": "ciane-riserva-tour-barca",
+    "nome": "RISERVA DEL CIANE – TOUR IN BARCA",
+    "immagine": "https://cdn.travel-buddies.com/media/1-hour-boat-tour-in-the-ciane-nature-reserve-in-syracuse-d205-215946P22-4.jpg",
+    "galleria": null,
+    "categorie": [
+      "natura",
+      "mare",
+      "tour"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 333 9458579",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Riserva+Naturale+Fiume+Ciane+Siracusa",
+    "prenotaUrl": "https://www.tripadvisor.it/AttractionProductReview-g187886-d25181063-1_Hour_Boat_Tour_in_the_Ciane_Nature_Reserve_in_Syracuse-Sicily.html",
+    "descrizione": "Navigazione lenta nella Riserva del Ciane tra papiri, vegetazione fluviale e paesaggi naturali alle porte di Siracusa."
+  },
+  {
+    "posizione": 26,
+    "vetrina": 0,
+    "slug": "quark-kayak-sup-ortigia",
+    "nome": "KAYAK E SUP – QUARK EXPERIENCE",
+    "immagine": "https://res.cloudinary.com/manawa/image/private/f_auto%2Cc_limit%2Cw_3840%2Cq_auto/fuq4iv9g23bzr0xiudiw",
+    "galleria": null,
+    "categorie": [
+      "mare",
+      "sport",
+      "natura"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 393 1286202",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quark+Experience+Siracusa",
+    "prenotaUrl": "https://www.quarkexperience.com/",
+    "descrizione": "Escursioni e noleggio in kayak e SUP per esplorare Ortigia, costa e grotte marine direttamente dall'acqua."
+  },
+  {
+    "posizione": 27,
+    "vetrina": 0,
+    "slug": "ortigia-diving-battesimo-del-mare",
+    "nome": "BATTESIMO DEL MARE – ORTIGIA DIVING",
+    "immagine": "https://www.sicilying.com/sicilying/files/immagini-offerte/offerta_219/219_Immersioni-Subacquee_fT.webp",
+    "galleria": null,
+    "categorie": [
+      "mare",
+      "sport",
+      "natura"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 351 3452270",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ortigia+Diving+Riva+della+Posta+5+Siracusa",
+    "prenotaUrl": "https://www.ortigiadiving.com/immersioni/",
+    "descrizione": "Prima esperienza subacquea con attrezzatura completa e istruttori, ideale per avvicinarsi al diving nel mare siracusano."
+  },
+  {
+    "posizione": 28,
+    "vetrina": 0,
+    "slug": "siracusa-tour-bike-ebike",
+    "nome": "E-BIKE TRA SIRACUSA E ORTIGIA",
+    "immagine": "https://cdn.getyourguide.com/img/tour/a838edba29824011badadbf2444b86d92949dfea9ee473b9901bcf6563f2aee4.jpeg/148.jpg",
+    "galleria": null,
+    "categorie": [
+      "sport",
+      "tour",
+      "natura"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 331 6330452",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siracusa+Tour+Bike+Siracusa",
+    "prenotaUrl": "https://www.siracusatourbike.it/rent/it/itinerari/",
+    "descrizione": "Noleggio e itinerari in e-bike per Ortigia, Neapolis, pista ciclabile, Plemmirio e altre zone della costa."
+  },
+  {
+    "posizione": 29,
+    "vetrina": 0,
+    "slug": "ape-tour-siracusa",
+    "nome": "APE CALESSINO TOUR DI SIRACUSA",
+    "immagine": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/a0/62/32/noi.jpg?h=1200&s=1&w=1200",
+    "galleria": null,
+    "categorie": [
+      "tour",
+      "cultura"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 340 4918640",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ape+Tour+Siracusa+Piazza+Emanuele+Pancali+17",
+    "prenotaUrl": "https://www.apetoursiracusa.com/",
+    "descrizione": "Tour privato in Ape Calessino tra Ortigia e Siracusa con itinerari di diversa durata e prenotazione anticipata."
+  },
+  {
+    "posizione": 30,
+    "vetrina": 0,
+    "slug": "plemmirio-vela-snorkeling",
+    "nome": "PLEMMIRIO IN VELA E SNORKELING",
+    "immagine": "https://res.klook.com/images/w_1200%2Ch_630%2Cc_fill%2Cq_65/w_80%2Cx_15%2Cy_15%2Cg_south_west%2Cl_Klook_water_br_trans_yhcmh3/activities/ayfawhufx83ucr3h4cyt/Siracusa%20Ortygia%20%26%20Plemmirio%20Half-Day%20Private%20Boat%20Tour.jpg",
+    "galleria": null,
+    "categorie": [
+      "mare",
+      "sport",
+      "natura",
+      "tour"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Area+Marina+Protetta+Plemmirio+Siracusa",
+    "prenotaUrl": "https://www.tiowo.com/escursioni-sicilia/tour-in-barca-ortigia",
+    "descrizione": "Uscita in barca a vela verso Ortigia e Plemmirio con soste nel mare e possibilità di snorkeling."
+  },
+  {
+    "posizione": 31,
+    "vetrina": 0,
+    "slug": "pesca-in-barca-siracusa",
+    "nome": "ESPERIENZA DI PESCA IN BARCA",
+    "immagine": "https://i.world-tourism.org/m/tour-with-midwater-or-pole-fishing-t893321-2.jpg",
+    "galleria": null,
+    "categorie": [
+      "mare",
+      "sport",
+      "natura",
+      "tour"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "+39 342 8311333",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolci+Escursioni+Siracusa",
+    "prenotaUrl": "https://www.getyourguide.com/syracuse-l1115/tour-with-midwater-or-pole-fishing-t893321/",
+    "descrizione": "Uscita privata con attrezzatura da pesca, navigazione lungo la costa e possibilità di esplorare Ortigia e Plemmirio."
+  },
+  {
+    "posizione": 32,
+    "vetrina": 0,
+    "slug": "pantalica-trekking-guidato",
+    "nome": "TREKKING GUIDATO A PANTALICA",
+    "immagine": "https://sicily-holiday.com/images/images/siracusa/pantalica-tour.jpg",
+    "galleria": null,
+    "categorie": [
+      "natura",
+      "sport",
+      "cultura",
+      "tour"
+    ],
+    "fasciaPrezzo": 3,
+    "telefono": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Necropoli+di+Pantalica+Siracusa",
+    "prenotaUrl": "https://www.viator.com/tours/Sicily/pantalica-tour/d205-19933P12",
+    "descrizione": "Escursione guidata nella riserva e necropoli rupestre di Pantalica tra canyon, natura, archeologia e sentieri."
+  },
+  {
+    "posizione": 33,
+    "vetrina": 0,
+    "slug": "neapolis-realta-virtuale",
+    "nome": "NEAPOLIS IN REALTÀ VIRTUALE",
+    "immagine": "https://foto.guidasicilia.it/2016/11/parco_archeologico_neapolis_042433.jpg",
+    "galleria": null,
+    "categorie": [
+      "cultura",
+      "spettacolo"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 64694",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parco+Archeologico+della+Neapolis+Siracusa",
+    "prenotaUrl": "https://www.secretsiracusa.it/biglietti/",
+    "descrizione": "Esperienza VR dedicata al Parco Archeologico della Neapolis, pensata per ricostruire e comprendere il sito antico."
+  },
+  {
+    "posizione": 34,
+    "vetrina": 0,
+    "slug": "ortigia-segreta-tour",
+    "nome": "ORTIGIA SEGRETA – TOUR BY NIGHT",
+    "immagine": "https://images.squarespace-cdn.com/content/v1/5a9edb84e17ba37ddb22a4d9/1673003230771-FJ66LICCLQ4XELLPNL4B/Harbor%2Bgate%2Bto%2BOrtigia.JPG",
+    "galleria": null,
+    "categorie": [
+      "tour",
+      "cultura",
+      "notturno"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 327 4247890",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tempio+di+Apollo+Siracusa",
+    "prenotaUrl": "https://www.toursiracusa.it/ortigia-segreta/",
+    "descrizione": "Tour privato serale tra vicoli, chiese, edifici barocchi e luoghi meno conosciuti dell'isola di Ortigia."
+  },
+  {
+    "posizione": 35,
+    "vetrina": 0,
+    "slug": "siracusa-classica-tour-guidato",
+    "nome": "SIRACUSA CLASSICA – TOUR GUIDATO",
+    "immagine": "https://gezimanya.com/sites/default/files/styles/800x600_/public/gezi-notu/2019-11/image-8_medium_18.jpg",
+    "galleria": null,
+    "categorie": [
+      "tour",
+      "cultura"
+    ],
+    "fasciaPrezzo": 2,
+    "telefono": "+39 327 4247890",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Parco+Archeologico+della+Neapolis+Siracusa",
+    "prenotaUrl": "https://www.toursiracusa.it/siracusa-classica/",
+    "descrizione": "Visita privata di circa mezza giornata dedicata ai grandi siti della Neapolis e al centro storico di Ortigia."
+  },
+  {
+    "posizione": 36,
+    "vetrina": 0,
+    "slug": "papyrus-experience-ciane",
+    "nome": "PAPYRUS EXPERIENCE – FIUME CIANE",
+    "immagine": "https://d2exd72xrrp1s7.cloudfront.net/www/000/1k3/13/134zu2rymhukj10nr8epwxa9hh3657psde-uhi9084369/0?crop=true&height=576&width=768",
+    "galleria": null,
+    "categorie": [
+      "natura",
+      "cultura",
+      "tour"
+    ],
+    "fasciaPrezzo": 1,
+    "telefono": "+39 327 4247890",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fonte+Ciane+Contrada+Testa+Pisima+Siracusa",
+    "prenotaUrl": "https://www.toursiracusa.it/papyrus-experience/",
+    "descrizione": "Passeggiata guidata lungo il Ciane tra papiri e natura, con dimostrazione della carta e visita alla civiltà contadina."
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "posizione": 1,
+    "vetrina": 1,
+    "slug": "siracusa-rent",
+    "nome": "Siracusa Rent",
+    "immagine": null,
+    "galleria": null,
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 200001",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Autonoleggio+Stazione+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Agenzia a due passi dalla stazione ferroviaria, comoda per chi arriva in treno e vuole proseguire in auto."
+  },
+  {
+    "posizione": 2,
+    "vetrina": 2,
+    "slug": "sicily-cars-fontanarossa",
+    "nome": "Sicily Cars Fontanarossa",
+    "immagine": null,
+    "galleria": null,
+    "fasciaPrezzo": 2,
+    "telefono": "+39 095 200002",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Autonoleggio+Aeroporto+Catania+Fontanarossa",
+    "prenotaUrl": null,
+    "descrizione": "Banco diretto in aeroporto a Catania-Fontanarossa: pratico per ritirare l'auto appena atterrati."
+  },
+  {
+    "posizione": 3,
+    "vetrina": 3,
+    "slug": "autonoleggio-ortigia",
+    "nome": "Autonoleggio Ortigia",
+    "immagine": null,
+    "galleria": null,
+    "fasciaPrezzo": 1,
+    "telefono": "+39 0931 200003",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Autonoleggio+Ortigia+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Piccola agenzia in centro con city car e scooter, ideale per spostamenti brevi fuori dalla ZTL."
+  },
+  {
+    "posizione": 4,
+    "vetrina": 4,
+    "slug": "ibleo-rent-a-car",
+    "nome": "Ibleo Rent a Car",
+    "immagine": null,
+    "galleria": null,
+    "fasciaPrezzo": 3,
+    "telefono": "+39 0931 200004",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ibleo+Rent+a+Car+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "SUV e auto adatte alle strade dell'entroterra, per escursioni verso Pantalica, Noto e Ragusa."
+  },
+  {
+    "posizione": 5,
+    "vetrina": 5,
+    "slug": "easydrive-siracusa",
+    "nome": "EasyDrive Siracusa",
+    "immagine": null,
+    "galleria": null,
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 200005",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=EasyDrive+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Flotta di auto economiche con consegna e ritiro flessibili, anche la sera tardi su richiesta."
+  },
+  {
+    "posizione": 6,
+    "vetrina": 6,
+    "slug": "isola-rent",
+    "nome": "Isola Rent",
+    "immagine": null,
+    "galleria": null,
+    "fasciaPrezzo": 2,
+    "telefono": "+39 0931 200006",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Isola+Rent+Siracusa",
+    "prenotaUrl": null,
+    "descrizione": "Minivan e auto spaziose per gruppi e famiglie, comode per le giornate al mare al Plemmirio."
+  }
+]
